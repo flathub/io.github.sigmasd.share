@@ -56,5 +56,5 @@ modules:
         only-arches:
           - aarch64
       - type: archive
-        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/0.1.11.tar.gz
-        sha256: f4b399ca975a7bf35e9023d3235f41bf1b892271c6bc65c0a006e16c80d4997c
+        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/0.1.13.tar.gz
+        sha256: 8bb8c540b3a40985119e6a54134c0e4c64a18d22b9eee2491cac920c16f6a3dc
