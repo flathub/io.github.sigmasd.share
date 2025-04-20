@@ -19,7 +19,7 @@ modules:
   - name: share
     buildsystem: simple
     build-commands:
-      - DENORT_BIN=$PWD/denort ./deno compile --output share-bin --include ./src/main.worker.ts --allow-all ./src/main.ts
+      - DENORT_BIN=$PWD/denort ./deno compile --no-check --output share-bin --include ./src/main.worker.ts --allow-all ./src/main.ts
 
       - mkdir -p /app/bin/
       - mv share-bin /app/bin/share-bin
