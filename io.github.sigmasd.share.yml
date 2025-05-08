@@ -22,7 +22,6 @@ modules:
       env:
         DENORT_BIN: denort
     build-commands:
-      - mv vendor src/vendor
       - ./deno compile --vendor --no-check --output share-bin --include ./src/main.worker.ts --allow-all ./src/main.ts
 
       - mkdir -p /app/bin/
