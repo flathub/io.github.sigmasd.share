@@ -683,7 +683,7 @@
     "url": "https://jsr.io/@std/cli/1.0.17/unstable_prompt_multiple_select.ts",
     "sha256": "8720bcfb10ec89032ae52a2c76b0d0a4c2e744f0eeb1ccf801a8e53a41454060",
     "dest": "vendor/jsr.io/@std/cli/1.0.17",
-    "dest-filename": "#unstable_prompt_mult_db113"
+    "dest-filename": "#unstable_prompt_mult_db113.ts"
   },
   {
     "type": "file",
@@ -697,7 +697,7 @@
     "url": "https://jsr.io/@std/cli/1.0.17/unstable_progress_bar_stream.ts",
     "sha256": "92fbb6b46bed36cfe87d07eec780566aeead6b83000f751761b4684659a878ec",
     "dest": "vendor/jsr.io/@std/cli/1.0.17",
-    "dest-filename": "#unstable_progress_ba_b71b9"
+    "dest-filename": "#unstable_progress_ba_b71b9.ts"
   },
   {
     "type": "file",
@@ -1355,7 +1355,7 @@
     "url": "https://jsr.io/@std/html/1.0.4/unstable_is_valid_custom_element_name.ts",
     "sha256": "6c78d85823dc9fbe1b5238dbca36542ae5a0c420305739e112d674a9ebbfdfe1",
     "dest": "vendor/jsr.io/@std/html/1.0.4",
-    "dest-filename": "#unstable_is_valid_cu_f509d"
+    "dest-filename": "#unstable_is_valid_cu_f509d.ts"
   },
   {
     "type": "file",
@@ -1719,7 +1719,7 @@
     "url": "https://jsr.io/@std/net/1.0.4/unstable_get_network_address.ts",
     "sha256": "edea745f0c16596abd83a643537102185c9d396b327729241bf93c51da09870d",
     "dest": "vendor/jsr.io/@std/net/1.0.4",
-    "dest-filename": "#unstable_get_network_b61b7"
+    "dest-filename": "#unstable_get_network_b61b7.ts"
   },
   {
     "type": "file",
@@ -2552,7 +2552,7 @@
     "url": "https://jsr.io/@std/streams/1.0.9/limited_bytes_transform_stream.ts",
     "sha256": "bed6da5a1ca6f6a764b1bc6ef28e6592183feec278cd2709118214f65240a2d6",
     "dest": "vendor/jsr.io/@std/streams/1.0.9",
-    "dest-filename": "#limited_bytes_transf_dcd1a"
+    "dest-filename": "#limited_bytes_transf_dcd1a.ts"
   },
   {
     "type": "file",
