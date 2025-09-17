@@ -14,6 +14,8 @@ finish-args:
   - --share=ipc
   # gtk4 wants to access gpu
   - --device=dri
+  # allows to save recieved files/dirs in the download folder
+  - --filesystem=xdg-download
 
 modules:
   - name: share
@@ -22,7 +24,7 @@ modules:
       env:
         DENORT_BIN: denort
     build-commands:
-      - ./deno compile --vendor --cached-only --no-check  --output share-bin --include ./src/main.worker.ts --allow-all ./src/main.ts
+      - ./deno compile --unstable-raw-imports --vendor --cached-only --no-check  --output share-bin --include ./src/main.worker.ts --allow-all ./src/main.ts
 
       - mkdir -p /app/bin/
       - mv share-bin /app/bin/share-bin
@@ -41,29 +43,29 @@ modules:
 
       # deno
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-x86_64-unknown-linux-gnu.zip
-        sha256: b2920265e633215959b09a32b67f46c93362842bbfd27c96e8acc2d24b66f563
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/deno-x86_64-unknown-linux-gnu.zip
+        sha256: bceddde4ff520f21c3767d893fe3d2d83df788346d3ad6f03d8abcd0392eb3ab
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-x86_64-unknown-linux-gnu.zip
-        sha256: 611c72c6e3de743c3f04eeb5f43cfb94dee7a232c7142d63f1967478bd220d11
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/denort-x86_64-unknown-linux-gnu.zip
+        sha256: 8ea4c344bd945244186b60b2745f7cbe460f6bd8f8a7479b9dac2d57199fd298
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-aarch64-unknown-linux-gnu.zip
-        sha256: 3771ede34037694591846166f6211e7a8ab5cd77a1e7143e637d4457e8708dc7
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/deno-aarch64-unknown-linux-gnu.zip
+        sha256: fa9822bf4fae820126b4fe3f1925010c14ca5f626f5ad743b3d6c3c20e33ad1a
         only-arches:
           - aarch64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-aarch64-unknown-linux-gnu.zip
-        sha256: bec92b837f50d0330a532a53fcbcf8383eed3d5e4575d893cca59c50d4724c1f
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/denort-aarch64-unknown-linux-gnu.zip
+        sha256: 772fce5bd2da44f379229bbaa7302a1e901740906f3a978c2b0f1335e00237c9
         only-arches:
           - aarch64
 
       # Share
       - type: archive
-        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/1.2.1.tar.gz
-        sha256: a61de3b81742858243e10e82518d9cefc9b270ff3b27b5105dcd3460ca6d049f
+        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/1.2.2.tar.gz
+        sha256: bf9e2bc865a8ed37f7ea8388732688754170d311cfe487470f077acf9e7eeee3
 
       - deno-sources.json
