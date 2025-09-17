@@ -43,23 +43,23 @@ modules:
 
       # deno
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-x86_64-unknown-linux-gnu.zip
-        sha256: b2920265e633215959b09a32b67f46c93362842bbfd27c96e8acc2d24b66f563
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/deno-x86_64-unknown-linux-gnu.zip
+        sha256: ab588dd16bb3657b0d5aad9cf002795b1bb35230a45a602216ffd6c88b2f3c48
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-x86_64-unknown-linux-gnu.zip
-        sha256: 611c72c6e3de743c3f04eeb5f43cfb94dee7a232c7142d63f1967478bd220d11
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/denort-x86_64-unknown-linux-gnu.zip
+        sha256: 3b9f9b171ddc0bfca0f72f2c6cb67594593411976d22a63647fc8ef6e1464977
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/deno-aarch64-unknown-linux-gnu.zip
-        sha256: 3771ede34037694591846166f6211e7a8ab5cd77a1e7143e637d4457e8708dc7
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/deno-aarch64-unknown-linux-gnu.zip
+        sha256: fa9822bf4fae820126b4fe3f1925010c14ca5f626f5ad743b3d6c3c20e33ad1a
         only-arches:
           - aarch64
       - type: archive
-        url: https://github.com/denoland/deno/releases/download/v2.3.1/denort-aarch64-unknown-linux-gnu.zip
-        sha256: bec92b837f50d0330a532a53fcbcf8383eed3d5e4575d893cca59c50d4724c1f
+        url: https://github.com/denoland/deno/releases/download/v2.5.1/denort-aarch64-unknown-linux-gnu.zip
+        sha256: be1bfc61557897ae215d98ee2088e3ff771013fba71513a5f5a459916f35f729
         only-arches:
           - aarch64
 
