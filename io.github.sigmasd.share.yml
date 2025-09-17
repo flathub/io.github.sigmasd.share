@@ -14,6 +14,8 @@ finish-args:
   - --share=ipc
   # gtk4 wants to access gpu
   - --device=dri
+  # allows to save recieved files/dirs in the download folder
+  - --filesystem=xdg-download
 
 modules:
   - name: share
@@ -63,7 +65,7 @@ modules:
 
       # Share
       - type: archive
-        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/1.2.1.tar.gz
-        sha256: a61de3b81742858243e10e82518d9cefc9b270ff3b27b5105dcd3460ca6d049f
+        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/1.2.2.tar.gz
+        sha256: bf9e2bc865a8ed37f7ea8388732688754170d311cfe487470f077acf9e7eeee3
 
       - deno-sources.json
