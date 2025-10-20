@@ -362,659 +362,161 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"denosaurs\",\"name\":\"python\",\"latest\":\"0.4.5\",\"versions\":{}}",
+    "contents": "{\"scope\":\"denosaurs\",\"name\":\"python\",\"latest\":\"0.4.6\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@denosaurs/python",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4_meta.json",
-    "sha256": "0eca587ac3a60ed5bce73ac9612126de39d7c26b0a98c03044838fd94aba812f",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6_meta.json",
+    "sha256": "040ca5d73abbadc4baf41606420a8b32856469ad7889e9c9f3b105f8d0ac1924",
     "dest": "vendor/jsr.io/@denosaurs/python",
-    "dest-filename": "0.4.4_meta.json"
+    "dest-filename": "0.4.6_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4/src/util.ts",
-    "sha256": "8abfee48a2f3870401db000c66d3bb66bcc4e9a9ca947eafc0600822a5369aba",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.4/src",
-    "dest-filename": "util.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4/ext/pip.ts",
-    "sha256": "2b71d57cba2e4d45c32877ca3c3f474547ab3c107d80667402bbdc35388cde6d",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.4/ext",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6/ext/pip.ts",
+    "sha256": "2095c31648fc1b694aeb02f19f7c7f614e4f64382d24888217a61925254ff500",
+    "dest": "vendor/jsr.io/@denosaurs/python/0.4.6/ext",
     "dest-filename": "pip.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4/src/python.ts",
-    "sha256": "e0f75a2a39a4bbd11e908c23db1dc6b148b8eaae84ea38bd17eaa096fef020be",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.4/src",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6/src/python.ts",
+    "sha256": "4e418700e81ccb96144dcda411b16bb89d9d55e70e3576c6fa96b8863e477925",
+    "dest": "vendor/jsr.io/@denosaurs/python/0.4.6/src",
     "dest-filename": "python.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4/src/symbols.ts",
-    "sha256": "111f7badf824d9aad0563e967b89872d7206f05d6912629d7f0b97b750949334",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.4/src",
-    "dest-filename": "symbols.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4/mod.ts",
-    "sha256": "36292020f3a7e8c9774d5de7fe32e261b3b5ddfbb6689a78bb499014d40baa82",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.4",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4/src/ffi.ts",
-    "sha256": "cb1b0f1666315d32b6088ec7f08bfada9dd04279ecd080086d9a46359648c025",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.4/src",
-    "dest-filename": "ffi.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.4/deno.json",
-    "sha256": "47f2d6074e8a8c2d5a162d27d06a0fad229939b0764ad675ddf740c52d46e506",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.4",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"denosaurs\",\"name\":\"python\",\"latest\":\"0.4.5\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@denosaurs/python",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5_meta.json",
-    "sha256": "c801f16b6daf1c98f9ee113a646b9cf42be8ef1dff4892714a44841308354127",
-    "dest": "vendor/jsr.io/@denosaurs/python",
-    "dest-filename": "0.4.5_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5/src/symbols.ts",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6/src/symbols.ts",
     "sha256": "c710f541be44237161d445b2a7fa7d260be31e37fe255ef186fb93efaaaeae72",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.5/src",
+    "dest": "vendor/jsr.io/@denosaurs/python/0.4.6/src",
     "dest-filename": "symbols.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5/src/python.ts",
-    "sha256": "0926112ff2e027a079554bd19b94a584a6c6b0dcfcca153d6a651075e7c61b43",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.5/src",
-    "dest-filename": "python.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5/mod.ts",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6/mod.ts",
     "sha256": "36292020f3a7e8c9774d5de7fe32e261b3b5ddfbb6689a78bb499014d40baa82",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.5",
+    "dest": "vendor/jsr.io/@denosaurs/python/0.4.6",
     "dest-filename": "mod.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5/src/util.ts",
-    "sha256": "8abfee48a2f3870401db000c66d3bb66bcc4e9a9ca947eafc0600822a5369aba",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.5/src",
-    "dest-filename": "util.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5/ext/pip.ts",
-    "sha256": "2b71d57cba2e4d45c32877ca3c3f474547ab3c107d80667402bbdc35388cde6d",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.5/ext",
-    "dest-filename": "pip.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5/src/ffi.ts",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6/src/ffi.ts",
     "sha256": "cb1b0f1666315d32b6088ec7f08bfada9dd04279ecd080086d9a46359648c025",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.5/src",
+    "dest": "vendor/jsr.io/@denosaurs/python/0.4.6/src",
     "dest-filename": "ffi.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@denosaurs/python/0.4.5/deno.json",
-    "sha256": "db0e710e0218a8c329ad66cb76431dc50ea4f45c89876e1269ad394936803073",
-    "dest": "vendor/jsr.io/@denosaurs/python/0.4.5",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6/src/util.ts",
+    "sha256": "e30a5f33235f4ae31ed34cee6b6dd06e0fc9336da119096866a0b5cc707932ec",
+    "dest": "vendor/jsr.io/@denosaurs/python/0.4.6/src",
+    "dest-filename": "util.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@denosaurs/python/0.4.6/deno.json",
+    "sha256": "31a93c7ca8d054196149579ae870d713700bf6971a7d92cda7ca2c8c8f10ea9d",
+    "dest": "vendor/jsr.io/@denosaurs/python/0.4.6",
     "dest-filename": "deno.json"
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"sigma\",\"name\":\"gtk-py\",\"latest\":\"0.6.7\",\"versions\":{}}",
+    "contents": "{\"scope\":\"sigma\",\"name\":\"gtk-py\",\"latest\":\"0.7.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@sigma/gtk-py",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29_meta.json",
-    "sha256": "6756de606065749d48a4a0b9546b94c1ac04af5c66ab126e9db9e408a0ac83f1",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0_meta.json",
+    "sha256": "cb58dc433a34c7e8dda030b7c509925fbb50bea918de929c8c47bf5fb5ec6627",
     "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "0.4.29_meta.json"
+    "dest-filename": "0.7.0_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/gtk3.ts",
-    "sha256": "e83af8637572170957c64b72b529fabc771636e7eb6eae70f12b2de1fbe6e2b5",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/gdk4.ts",
-    "sha256": "25c3b82d19784ae3a5bba17357c0344d0a4eaaae838840e8ce01137f1c154cc5",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
-    "dest-filename": "gdk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/appindicator3.ts",
-    "sha256": "123faa6890e2fb7a8ea875212677b253d22f5fab894843e0039b7e6c2f01142b",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
-    "dest-filename": "appindicator3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/gobject2.ts",
-    "sha256": "c9061308e5a72e29387ecb5a966d36dfab2f365cc533413c1e894e5c3595aa1d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/gobject2.ts",
+    "sha256": "10b98aa706f1cd370d996bf1849867b34585b2ba109eb15196588f7646d046d5",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
     "dest-filename": "gobject2.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/gtk4.ts",
-    "sha256": "7f31f82aa6ff1731791408ef2bac76933ecb104aedb02381062be43803940bab",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
-    "dest-filename": "gtk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/adw1.ts",
-    "sha256": "9f15785244d57474c724ebb5e81818d9ab002b1d00e86c061aa1764381a57107",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
-    "dest-filename": "adw1.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/glib2.ts",
-    "sha256": "1cc5b0fab02d6d211379691e00993be80723b5c36608fd2c3123c439fe3b6b09",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/glib2.ts",
+    "sha256": "4867572deb7692a337384bb93380881352c6b15e0f9a6218326880bcd2950f72",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
     "dest-filename": "glib2.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/src/gio2.ts",
-    "sha256": "56505d577b4d5479d7de3318cd06343cc139ab20ae0dc4a57c1aac03e722d6d9",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29/src",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/adw1.ts",
+    "sha256": "5112502bda2eefcd806df2b8d9878363e13eb56b9ed109f907242c9d3055d21d",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
+    "dest-filename": "adw1.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/gio2.ts",
+    "sha256": "f54eeb1d4d249078213daabfe478bed8a9d8e1c0457557d8e07d9232959ff9a1",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
     "dest-filename": "gio2.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/mod.ts",
-    "sha256": "f5d1a22fd1f5501d9133da2f7fa2de6d504a7d88c6c63ebf90852e093d8b014f",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/gtk4.ts",
+    "sha256": "9b6283e032d5d480f0f54bff81ad0d0ae52035e3938fb6294cd0ff645203885c",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
+    "dest-filename": "gtk4.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/gdk4.ts",
+    "sha256": "4dc0f972cff47d90de7fa6306c664bd5b3fb254966610ec80ae06e45e261d962",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
+    "dest-filename": "gdk4.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/appindicator3.ts",
+    "sha256": "123faa6890e2fb7a8ea875212677b253d22f5fab894843e0039b7e6c2f01142b",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
+    "dest-filename": "appindicator3.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/mod.ts",
+    "sha256": "91937ecc2be61b6b6a4d34ce4bd626f9a6c41648359073fe7e07cdd79075428e",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0",
     "dest-filename": "mod.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.4.29/deno.json",
-    "sha256": "11f610b2b2fafc360ef87d6295b050438d18e1b201dc5cb195e7c03964561c36",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.4.29",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"sigma\",\"name\":\"gtk-py\",\"latest\":\"0.6.7\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "meta.json"
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/gtk3.ts",
+    "sha256": "daa10582c3d0aab63c9af8aa6e836f3095b38797aca6b2ad9d375f216b70febf",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
+    "dest-filename": "gtk3.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3_meta.json",
-    "sha256": "58a3e8e28d064cd676abc358e0cc06c53c95ab66c1f7cadef20013775351c2e0",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "0.6.3_meta.json"
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/internal_types.ts",
+    "sha256": "5065c11f34c530a5a89cf68ff29038f064d0e7bff3fcce4148741f0fa1622b40",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
+    "dest-filename": "internal_types.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/eventloop.ts",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/src/eventloop.ts",
     "sha256": "ca612b6cac6527bc5203a248ab87e1b7f7b0d5808db9c62cf8fe19534fd6573a",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0/src",
     "dest-filename": "eventloop.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/gtk3.ts",
-    "sha256": "e83af8637572170957c64b72b529fabc771636e7eb6eae70f12b2de1fbe6e2b5",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/appindicator3.ts",
-    "sha256": "123faa6890e2fb7a8ea875212677b253d22f5fab894843e0039b7e6c2f01142b",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "appindicator3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/adw1.ts",
-    "sha256": "da0dbc4bdb40f575a486c77b16da259eda3719baa6101f32cac090a1f1919bb9",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "adw1.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/gtk4.ts",
-    "sha256": "699b06c86a8efac9e07cd229203039cd34b98a3fd21456ce9ef57850f8ac4aae",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "gtk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/gdk4.ts",
-    "sha256": "25c3b82d19784ae3a5bba17357c0344d0a4eaaae838840e8ce01137f1c154cc5",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "gdk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/mod.ts",
-    "sha256": "6efab2b650522e36edda869e449db295ad0f11a18e3e0f6e79bfa87d36d5c5de",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/glib2.ts",
-    "sha256": "003e823177f59f9b4cd66b03fe7a882f721bcc30920d43312d2099ef6841301d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "glib2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/gio2.ts",
-    "sha256": "56505d577b4d5479d7de3318cd06343cc139ab20ae0dc4a57c1aac03e722d6d9",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "gio2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/src/gobject2.ts",
-    "sha256": "c9061308e5a72e29387ecb5a966d36dfab2f365cc533413c1e894e5c3595aa1d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3/src",
-    "dest-filename": "gobject2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.3/deno.json",
-    "sha256": "5f8ce80167b1bd4f633c692768781e00de56aeb014638ee2efb65e91be51bff2",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.3",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"sigma\",\"name\":\"gtk-py\",\"latest\":\"0.6.7\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4_meta.json",
-    "sha256": "875504ee9a21d828d0f0c77f0bf721d4385d4f6d4230df7b6f52d36da917daf8",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "0.6.4_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/gobject2.ts",
-    "sha256": "c9061308e5a72e29387ecb5a966d36dfab2f365cc533413c1e894e5c3595aa1d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "gobject2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/gtk3.ts",
-    "sha256": "e83af8637572170957c64b72b529fabc771636e7eb6eae70f12b2de1fbe6e2b5",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/glib2.ts",
-    "sha256": "003e823177f59f9b4cd66b03fe7a882f721bcc30920d43312d2099ef6841301d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "glib2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/appindicator3.ts",
-    "sha256": "123faa6890e2fb7a8ea875212677b253d22f5fab894843e0039b7e6c2f01142b",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "appindicator3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/gio2.ts",
-    "sha256": "56505d577b4d5479d7de3318cd06343cc139ab20ae0dc4a57c1aac03e722d6d9",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "gio2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/gtk4.ts",
-    "sha256": "1af700f8afcd9a78b1155ca79df6bdd44e4f85f5b0e1aeffa961039406478657",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "gtk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/mod.ts",
-    "sha256": "6efab2b650522e36edda869e449db295ad0f11a18e3e0f6e79bfa87d36d5c5de",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/gdk4.ts",
-    "sha256": "25c3b82d19784ae3a5bba17357c0344d0a4eaaae838840e8ce01137f1c154cc5",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "gdk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/eventloop.ts",
-    "sha256": "ca612b6cac6527bc5203a248ab87e1b7f7b0d5808db9c62cf8fe19534fd6573a",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "eventloop.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/src/adw1.ts",
-    "sha256": "cebff0e8c6b455f82022e0b4f2bb430d2ca4b43351bdf92c9969fe047b411b8e",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4/src",
-    "dest-filename": "adw1.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.4/deno.json",
-    "sha256": "10ddb6c1b00e5ed99370aba675b9e8fd0d5def912aa61cf4509579c26652740a",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.4",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"sigma\",\"name\":\"gtk-py\",\"latest\":\"0.6.7\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5_meta.json",
-    "sha256": "f19b0c937b1b962f4b69c676a8ad768651faa5d7016c6b476029ca48a7541f34",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "0.6.5_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/gio2.ts",
-    "sha256": "56505d577b4d5479d7de3318cd06343cc139ab20ae0dc4a57c1aac03e722d6d9",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "gio2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/glib2.ts",
-    "sha256": "003e823177f59f9b4cd66b03fe7a882f721bcc30920d43312d2099ef6841301d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "glib2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/appindicator3.ts",
-    "sha256": "123faa6890e2fb7a8ea875212677b253d22f5fab894843e0039b7e6c2f01142b",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "appindicator3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/gtk4.ts",
-    "sha256": "1af700f8afcd9a78b1155ca79df6bdd44e4f85f5b0e1aeffa961039406478657",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "gtk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/eventloop.ts",
-    "sha256": "ca612b6cac6527bc5203a248ab87e1b7f7b0d5808db9c62cf8fe19534fd6573a",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "eventloop.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/gtk3.ts",
-    "sha256": "49a2da229cb35238e092975df5fe965f5746e588c0098bf095b270272ea9d1dd",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/adw1.ts",
-    "sha256": "cebff0e8c6b455f82022e0b4f2bb430d2ca4b43351bdf92c9969fe047b411b8e",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "adw1.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/gobject2.ts",
-    "sha256": "c9061308e5a72e29387ecb5a966d36dfab2f365cc533413c1e894e5c3595aa1d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "gobject2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/mod.ts",
-    "sha256": "b75128ccbc21e9d9bb0855fe6c64b39c808fc1e271245eb42d1f394c7d98a9f4",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/src/gdk4.ts",
-    "sha256": "25c3b82d19784ae3a5bba17357c0344d0a4eaaae838840e8ce01137f1c154cc5",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5/src",
-    "dest-filename": "gdk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.5/deno.json",
-    "sha256": "b3d6ffbf90a5fa394c11ee461532a95469a272e3d3f0a55bc7ce468a6142c303",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.5",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"sigma\",\"name\":\"gtk-py\",\"latest\":\"0.6.7\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6_meta.json",
-    "sha256": "f9f122a38dc40a6500923a77ea91f5072f770b5769d130b9f476e3428fd71c58",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "0.6.6_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/gio2.ts",
-    "sha256": "1acb6174c84e6edce48b50859768ea8ccd239c88745a9bb4c6b178f22d69a9ca",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "gio2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/gtk4.ts",
-    "sha256": "fc8f7a45107892ee9938c1e66f2e48f27524ccd8ebd8ccf5950351773688c67c",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "gtk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/adw1.ts",
-    "sha256": "bbac4d1c74db2a82460beefea6e279deb79402a33738811aa1cf9719b5913263",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "adw1.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/appindicator3.ts",
-    "sha256": "123faa6890e2fb7a8ea875212677b253d22f5fab894843e0039b7e6c2f01142b",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "appindicator3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/glib2.ts",
-    "sha256": "003e823177f59f9b4cd66b03fe7a882f721bcc30920d43312d2099ef6841301d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "glib2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/gtk3.ts",
-    "sha256": "49a2da229cb35238e092975df5fe965f5746e588c0098bf095b270272ea9d1dd",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/gobject2.ts",
-    "sha256": "c9061308e5a72e29387ecb5a966d36dfab2f365cc533413c1e894e5c3595aa1d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "gobject2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/mod.ts",
-    "sha256": "b75128ccbc21e9d9bb0855fe6c64b39c808fc1e271245eb42d1f394c7d98a9f4",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/gdk4.ts",
-    "sha256": "3b31a75808b26bdfcf4a221d86f5f84296c73cd2d072297e963bb54077d22096",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "gdk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/src/eventloop.ts",
-    "sha256": "ca612b6cac6527bc5203a248ab87e1b7f7b0d5808db9c62cf8fe19534fd6573a",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6/src",
-    "dest-filename": "eventloop.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.6/deno.json",
-    "sha256": "2d75b125fb1fc5111a18dc40ccb4682df0f6287daa13f5779bec33f9c1261d48",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.6",
-    "dest-filename": "deno.json"
-  },
-  {
-    "type": "inline",
-    "contents": "{\"scope\":\"sigma\",\"name\":\"gtk-py\",\"latest\":\"0.6.7\",\"versions\":{}}",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7_meta.json",
-    "sha256": "c03ff37be4c191c29c3a92ac3108b579a5b84fe0d1bca1efea87f40c5cef6a6a",
-    "dest": "vendor/jsr.io/@sigma/gtk-py",
-    "dest-filename": "0.6.7_meta.json"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/eventloop.ts",
-    "sha256": "ca612b6cac6527bc5203a248ab87e1b7f7b0d5808db9c62cf8fe19534fd6573a",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "eventloop.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/appindicator3.ts",
-    "sha256": "123faa6890e2fb7a8ea875212677b253d22f5fab894843e0039b7e6c2f01142b",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "appindicator3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/mod.ts",
-    "sha256": "b75128ccbc21e9d9bb0855fe6c64b39c808fc1e271245eb42d1f394c7d98a9f4",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/glib2.ts",
-    "sha256": "003e823177f59f9b4cd66b03fe7a882f721bcc30920d43312d2099ef6841301d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "glib2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/gdk4.ts",
-    "sha256": "716f620c4cf6d2915c39534a11bcab77078bb20dfce03f9071c10d2fcfaeb1e3",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "gdk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/gtk4.ts",
-    "sha256": "fc8f7a45107892ee9938c1e66f2e48f27524ccd8ebd8ccf5950351773688c67c",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "gtk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/adw1.ts",
-    "sha256": "bbac4d1c74db2a82460beefea6e279deb79402a33738811aa1cf9719b5913263",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "adw1.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/gobject2.ts",
-    "sha256": "c9061308e5a72e29387ecb5a966d36dfab2f365cc533413c1e894e5c3595aa1d",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "gobject2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/gio2.ts",
-    "sha256": "1acb6174c84e6edce48b50859768ea8ccd239c88745a9bb4c6b178f22d69a9ca",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "gio2.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/src/gtk3.ts",
-    "sha256": "49a2da229cb35238e092975df5fe965f5746e588c0098bf095b270272ea9d1dd",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7/src",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigma/gtk-py/0.6.7/deno.json",
-    "sha256": "d1fcc8a455552e60fe3a80bc0536b0ab025fada9091b27c9b9b19c8d28c43028",
-    "dest": "vendor/jsr.io/@sigma/gtk-py/0.6.7",
+    "url": "https://jsr.io/@sigma/gtk-py/0.7.0/deno.json",
+    "sha256": "23a698d8e42fd566d6a8a3bfb9a39f7da51c65e5d3d163c597241b64ba147731",
+    "dest": "vendor/jsr.io/@sigma/gtk-py/0.7.0",
     "dest-filename": "deno.json"
   },
   {
@@ -1157,7 +659,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"cli\",\"latest\":\"1.0.22\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"cli\",\"latest\":\"1.0.23\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/cli",
     "dest-filename": "meta.json"
   },
@@ -2090,7 +1592,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"html\",\"latest\":\"1.0.4\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"html\",\"latest\":\"1.0.5\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/html",
     "dest-filename": "meta.json"
   },
@@ -2131,7 +1633,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"http\",\"latest\":\"1.0.20\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"http\",\"latest\":\"1.0.21\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/http",
     "dest-filename": "meta.json"
   },
@@ -3169,7 +2671,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"streams\",\"latest\":\"1.0.12\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"streams\",\"latest\":\"1.0.13\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/streams",
     "dest-filename": "meta.json"
   },
@@ -3340,5 +2842,31 @@
     "sha256": "b011c591098109dcc72a5bf56b26a529a4e2d253dd28d708d3e939daa50d6639",
     "dest": "vendor/jsr.io/@std/streams/1.0.9",
     "dest-filename": "deno.json"
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"@types/node\",\"dist-tags\":{},\"versions\":{\"24.2.0\":{\"name\":\"@types/node\",\"version\":\"24.2.0\",\"license\":\"MIT\",\"_id\":\"@types/node@24.2.0\",\"maintainers\":[{\"name\":\"types\",\"email\":\"ts-npm-types@microsoft.com\"}],\"contributors\":[{\"url\":\"https://github.com/Microsoft\",\"name\":\"Microsoft TypeScript\",\"githubUsername\":\"Microsoft\"},{\"url\":\"https://github.com/jkomyno\",\"name\":\"Alberto Schiabel\",\"githubUsername\":\"jkomyno\"},{\"url\":\"https://github.com/r3nya\",\"name\":\"Andrew Makarov\",\"githubUsername\":\"r3nya\"},{\"url\":\"https://github.com/btoueg\",\"name\":\"Benjamin Toueg\",\"githubUsername\":\"btoueg\"},{\"url\":\"https://github.com/touffy\",\"name\":\"David Junger\",\"githubUsername\":\"touffy\"},{\"url\":\"https://github.com/mohsen1\",\"name\":\"Mohsen Azimi\",\"githubUsername\":\"mohsen1\"},{\"url\":\"https://github.com/galkin\",\"name\":\"Nikita Galkin\",\"githubUsername\":\"galkin\"},{\"url\":\"https://github.com/eps1lon\",\"name\":\"Sebastian Silbermann\",\"githubUsername\":\"eps1lon\"},{\"url\":\"https://github.com/WilcoBakker\",\"name\":\"Wilco Bakker\",\"githubUsername\":\"WilcoBakker\"},{\"url\":\"https://github.com/chyzwar\",\"name\":\"Marcin Kopacz\",\"githubUsername\":\"chyzwar\"},{\"url\":\"https://github.com/trivikr\",\"name\":\"Trivikram Kamat\",\"githubUsername\":\"trivikr\"},{\"url\":\"https://github.com/yoursunny\",\"name\":\"Junxiao Shi\",\"githubUsername\":\"yoursunny\"},{\"url\":\"https://github.com/qwelias\",\"name\":\"Ilia Baryshnikov\",\"githubUsername\":\"qwelias\"},{\"url\":\"https://github.com/ExE-Boss\",\"name\":\"ExE Boss\",\"githubUsername\":\"ExE-Boss\"},{\"url\":\"https://github.com/peterblazejewicz\",\"name\":\"Piotr Błażejewicz\",\"githubUsername\":\"peterblazejewicz\"},{\"url\":\"https://github.com/addaleax\",\"name\":\"Anna Henningsen\",\"githubUsername\":\"addaleax\"},{\"url\":\"https://github.com/victorperin\",\"name\":\"Victor Perin\",\"githubUsername\":\"victorperin\"},{\"url\":\"https://github.com/NodeJS\",\"name\":\"NodeJS Contributors\",\"githubUsername\":\"NodeJS\"},{\"url\":\"https://github.com/LinusU\",\"name\":\"Linus Unnebäck\",\"githubUsername\":\"LinusU\"},{\"url\":\"https://github.com/wafuwafu13\",\"name\":\"wafuwafu13\",\"githubUsername\":\"wafuwafu13\"},{\"url\":\"https://github.com/mcollina\",\"name\":\"Matteo Collina\",\"githubUsername\":\"mcollina\"},{\"url\":\"https://github.com/Semigradsky\",\"name\":\"Dmitry Semigradsky\",\"githubUsername\":\"Semigradsky\"},{\"url\":\"https://github.com/Renegade334\",\"name\":\"René\",\"githubUsername\":\"Renegade334\"},{\"url\":\"https://github.com/anonrig\",\"name\":\"Yagiz Nizipli\",\"githubUsername\":\"anonrig\"}],\"homepage\":\"https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node\",\"dist\":{\"shasum\":\"cde712f88c5190006d6b069232582ecd1f94a760\",\"tarball\":\"https://registry.npmjs.org/@types/node/-/node-24.2.0.tgz\",\"fileCount\":83,\"integrity\":\"sha512-3xyG3pMCq3oYCNg7/ZP+E1ooTaGB4cG8JWRsqqOYQdbWNY4zbaV0Ennrd7stjiJEFZCaybcIgpTjJWHRfBSIDw==\",\"signatures\":[{\"sig\":\"MEUCICWAvyp0k11nVrCkmuFyekwURyCHSo7HI9J17gzaTHLZAiEAv15bxQx9dTmNgktzhs/pLJ/JJwDnhvaEqF5clZk/25g=\",\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\"}],\"unpackedSize\":2408413},\"main\":\"\",\"types\":\"index.d.ts\",\"scripts\":{},\"_npmUser\":{\"name\":\"types\",\"email\":\"ts-npm-types@microsoft.com\"},\"repository\":{\"url\":\"https://github.com/DefinitelyTyped/DefinitelyTyped.git\",\"type\":\"git\",\"directory\":\"types/node\"},\"description\":\"TypeScript definitions for node\",\"directories\":{},\"dependencies\":{\"undici-types\":\"~7.10.0\"},\"typesVersions\":{\"<=5.1\":{\"*\":[\"ts5.1/*\"]},\"<=5.6\":{\"*\":[\"ts5.6/*\"]},\"<=5.7\":{\"*\":[\"ts5.7/*\"]}},\"_hasShrinkwrap\":false,\"peerDependencies\":{},\"typeScriptVersion\":\"5.2\",\"_npmOperationalInternal\":{\"tmp\":\"tmp/node_24.2.0_1754301821785_0.7420616110708114\",\"host\":\"s3://npm-registry-packages-npm-production\"},\"typesPublisherContentHash\":\"592a3f00c1a1fd43b2d3e4b61e9a9840a9d22deac79f88625b217e5a14958a3d\"}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/@types/node",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/@types/node/-/node-24.2.0.tgz",
+    "sha512": "df1c86de9302ab7a1808d83bfd93fe135a284da181e1c1bc25646caaa39841d6d6358e336da5741279eb77bb2d8e224415909ac9b7088294e32561d17c14880f",
+    "dest": "deno_dir/npm/registry.npmjs.org/@types/node/24.2.0"
+  },
+  {
+    "type": "inline",
+    "contents": "{\"name\":\"undici-types\",\"dist-tags\":{},\"versions\":{\"7.10.0\":{\"name\":\"undici-types\",\"version\":\"7.10.0\",\"license\":\"MIT\",\"_id\":\"undici-types@7.10.0\",\"maintainers\":[{\"name\":\"matteo.collina\",\"email\":\"hello@matteocollina.com\"},{\"name\":\"ethan_arrowood\",\"email\":\"ethan@arrowood.dev\"}],\"contributors\":[{\"url\":\"https://github.com/dnlup\",\"name\":\"Daniele Belardi\"},{\"url\":\"https://github.com/ethan-arrowood\",\"name\":\"Ethan Arrowood\"},{\"url\":\"https://github.com/mcollina\",\"name\":\"Matteo Collina\"},{\"url\":\"https://github.com/KhafraDev\",\"name\":\"Matthew Aitken\"},{\"url\":\"https://github.com/ronag\",\"name\":\"Robert Nagy\"},{\"url\":\"https://github.com/szmarczak\",\"name\":\"Szymon Marczak\"},{\"url\":\"https://github.com/delvedor\",\"name\":\"Tomas Della Vedova\"}],\"homepage\":\"https://undici.nodejs.org\",\"bugs\":{\"url\":\"https://github.com/nodejs/undici/issues\"},\"dist\":{\"shasum\":\"4ac2e058ce56b462b056e629cc6a02393d3ff350\",\"tarball\":\"https://registry.npmjs.org/undici-types/-/undici-types-7.10.0.tgz\",\"fileCount\":44,\"integrity\":\"sha512-t5Fy/nfn+14LuOc2KNYg75vZqClpAiqscVvMygNnlsHBFpSXdJaYtXMcdNLpl/Qvc3P2cB3s6lOV51nqsFq4ag==\",\"signatures\":[{\"sig\":\"MEUCIGo4RGR3RXg02XW5cOPhDT3f0Uu6sxjXz+JiC72lghyYAiEA9g1RLJUsR29XoH8X3SpsY1kSMMibXnp3pcOUn7PuyxI=\",\"keyid\":\"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U\"}],\"attestations\":{\"url\":\"https://registry.npmjs.org/-/npm/v1/attestations/undici-types@7.10.0\",\"provenance\":{\"predicateType\":\"https://slsa.dev/provenance/v1\"}},\"unpackedSize\":104501},\"types\":\"index.d.ts\",\"gitHead\":\"5ad89981bfa528cde5107277beba2f96b3f789d6\",\"_npmUser\":{\"name\":\"matteo.collina\",\"email\":\"hello@matteocollina.com\"},\"repository\":{\"url\":\"git+https://github.com/nodejs/undici.git\",\"type\":\"git\"},\"_npmVersion\":\"11.4.0\",\"description\":\"A stand-alone types package for Undici\",\"directories\":{},\"_nodeVersion\":\"20.19.1\",\"_hasShrinkwrap\":false,\"_npmOperationalInternal\":{\"tmp\":\"tmp/undici-types_7.10.0_1747725566120_0.5124525499691235\",\"host\":\"s3://npm-registry-packages-npm-production\"}}}}",
+    "dest": "deno_dir/npm/registry.npmjs.org/undici-types",
+    "dest-filename": "registry.json"
+  },
+  {
+    "type": "archive",
+    "archive-type": "tar-gzip",
+    "url": "https://registry.npmjs.org/undici-types/-/undici-types-7.10.0.tgz",
+    "sha512": "b79172fe77e7fb5e0bb8e73628d620ef9bd9a82969022aac715bccca036796c1c1169497749698b5731c74d2e997f42f7373f6701decea5395e759eab05ab86a",
+    "dest": "deno_dir/npm/registry.npmjs.org/undici-types/7.10.0"
   }
 ]
