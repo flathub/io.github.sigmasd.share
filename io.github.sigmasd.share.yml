@@ -28,7 +28,6 @@ modules:
 
       - mkdir -p /app/bin/
       - mv share-bin /app/bin/share
-      - mv share /app/bin/share
 
       - install -Dm644 distro/io.github.sigmasd.share.desktop -t /app/share/applications/
       - install -Dm644 distro/io.github.sigmasd.share.svg -t /app/share/icons/hicolor/scalable/apps/
