@@ -1,7 +1,7 @@
 app-id: io.github.sigmasd.share
 
 runtime: org.gnome.Platform
-runtime-version: "48"
+runtime-version: "49"
 sdk: org.gnome.Sdk
 
 command: share
@@ -27,20 +27,13 @@ modules:
       - ./deno compile --unstable-raw-imports --vendor --cached-only --no-check  --output share-bin --include ./src/main.worker.ts --allow-all ./src/main.ts
 
       - mkdir -p /app/bin/
-      - mv share-bin /app/bin/share-bin
-      - mv share /app/bin/share
+      - mv share-bin /app/bin/share
 
       - install -Dm644 distro/io.github.sigmasd.share.desktop -t /app/share/applications/
       - install -Dm644 distro/io.github.sigmasd.share.svg -t /app/share/icons/hicolor/scalable/apps/
       - install -Dm644 distro/io.github.sigmasd.share.metainfo.xml -t /app/share/metainfo/
 
     sources:
-      # EntryPoint
-      - type: script
-        dest-filename: share
-        commands:
-          - DENO_PYTHON_PATH=/usr/lib/$(uname -m)-linux-gnu/libpython3.12.so.1.0 /app/bin/share-bin
-
       # deno
       - type: archive
         url: https://github.com/denoland/deno/releases/download/v2.5.1/deno-x86_64-unknown-linux-gnu.zip
@@ -65,7 +58,7 @@ modules:
 
       # Share
       - type: archive
-        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/1.4.1.tar.gz
-        sha256: 18fbfec3333f441168d1b624dc0ca83d34f1df6edc97d8912e2895eef6f70bf6
+        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/2.0.0.tar.gz
+        sha256: 15bc0ae0768ed0676e733353dfcf9f5bb641e37e373995aac31a4461e8b5fec7
 
       - deno-sources.json
