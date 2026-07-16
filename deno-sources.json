@@ -49,7 +49,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"dax\",\"latest\":\"0.48.3\",\"versions\":{}}",
+    "contents": "{\"scope\":\"david\",\"name\":\"dax\",\"latest\":\"0.49.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@david/dax",
     "dest-filename": "meta.json"
   },
@@ -356,7 +356,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"dax\",\"latest\":\"0.48.3\",\"versions\":{}}",
+    "contents": "{\"scope\":\"david\",\"name\":\"dax\",\"latest\":\"0.49.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@david/dax",
     "dest-filename": "meta.json"
   },
@@ -649,7 +649,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"path\",\"latest\":\"0.3.2\",\"versions\":{}}",
+    "contents": "{\"scope\":\"david\",\"name\":\"path\",\"latest\":\"0.3.3\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@david/path",
     "dest-filename": "meta.json"
   },
@@ -703,7 +703,7 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"david\",\"name\":\"which\",\"latest\":\"0.7.0\",\"versions\":{}}",
+    "contents": "{\"scope\":\"david\",\"name\":\"which\",\"latest\":\"0.7.3\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@david/which",
     "dest-filename": "meta.json"
   },
@@ -730,41 +730,48 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"libs\",\"name\":\"qrcode\",\"latest\":\"3.0.1\",\"versions\":{}}",
+    "contents": "{\"scope\":\"libs\",\"name\":\"qrcode\",\"latest\":\"3.1.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@libs/qrcode",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@libs/qrcode/3.0.1_meta.json",
-    "sha256": "33b861840fbcc0a88498c35d316153e8f82eaeb0714d6b6cf2ab0b133d44527b",
+    "url": "https://jsr.io/@libs/qrcode/3.1.0_meta.json",
+    "sha256": "1d65698d3cbaf1d5e2e0b025f7d8572e8b2c485dcfa81d485e0bf0ce607e9c2b",
     "dest": "vendor/jsr.io/@libs/qrcode",
-    "dest-filename": "3.0.1_meta.json"
+    "dest-filename": "3.1.0_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@libs/qrcode/3.0.1/_qrcode.ts",
-    "sha256": "1c63886d901f20c91ed34691bff694ccfd5b5e4917a742dd301341f85ee8ea84",
-    "dest": "vendor/jsr.io/@libs/qrcode/3.0.1",
-    "dest-filename": "_qrcode.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@libs/qrcode/3.0.1/mod.ts",
+    "url": "https://jsr.io/@libs/qrcode/3.1.0/mod.ts",
     "sha256": "74430b33c40b079604409177f13088e1ef7c862eb44ec058e1038f6e185b2258",
-    "dest": "vendor/jsr.io/@libs/qrcode/3.0.1",
+    "dest": "vendor/jsr.io/@libs/qrcode/3.1.0",
     "dest-filename": "mod.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@libs/qrcode/3.0.1/deno.jsonc",
-    "sha256": "727b5ef9ed6e4ca88a9dd5af8895b148a1db07870d6ae2caa60632e252827640",
-    "dest": "vendor/jsr.io/@libs/qrcode/3.0.1",
+    "url": "https://jsr.io/@libs/qrcode/3.1.0/_qrcode.ts",
+    "sha256": "e0813bda5ebb92258d1532ed8074142c37b3b0b0558c7fa5441534d3e19ca68a",
+    "dest": "vendor/jsr.io/@libs/qrcode/3.1.0",
+    "dest-filename": "_qrcode.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@libs/qrcode/3.1.0/_png.ts",
+    "sha256": "cfc9cbbb4870aa76a7cdfa8fe77dd8e2974ef010fde609db94aceffa074d4f50",
+    "dest": "vendor/jsr.io/@libs/qrcode/3.1.0",
+    "dest-filename": "_png.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@libs/qrcode/3.1.0/deno.jsonc",
+    "sha256": "7698f16089a1488b44d6a1fec8b958529e46d58b26e58990d80449791df65d87",
+    "dest": "vendor/jsr.io/@libs/qrcode/3.1.0",
     "dest-filename": "deno.jsonc"
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"libs\",\"name\":\"xml\",\"latest\":\"7.0.4\",\"versions\":{}}",
+    "contents": "{\"scope\":\"libs\",\"name\":\"xml\",\"latest\":\"8.0.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@libs/xml",
     "dest-filename": "meta.json"
   },
@@ -867,190 +874,190 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"sigmasd\",\"name\":\"gtk\",\"latest\":\"0.65.0\",\"versions\":{}}",
+    "contents": "{\"scope\":\"sigmasd\",\"name\":\"gtk\",\"latest\":\"0.66.0\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@sigmasd/gtk",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0_meta.json",
-    "sha256": "b8a2eb49b07f9b79c00a4c80ad7afc704c306e69775fd4cf3f916ba38344e4b6",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0_meta.json",
+    "sha256": "8413276461cddd895693cd262db2746c993c633eb7aeac9e6e2477cac430b802",
     "dest": "vendor/jsr.io/@sigmasd/gtk",
-    "dest-filename": "0.65.0_meta.json"
+    "dest-filename": "0.66.0_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/app_indicator.ts",
-    "sha256": "324292bfcaf028bcbea564e5b428ff3bb7b2a3075d7967ef96eb26c9efedbb20",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
-    "dest-filename": "app_indicator.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/adw.ts",
-    "sha256": "6498f264ed38724716f4054c673ddbe2b13dc3d0d23f93e7b52b637b3c180d6d",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
-    "dest-filename": "adw.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/utils.ts",
-    "sha256": "c16042944d8c79ec82fe8afb98e71997fe7613c6ce525f02e1483d54135ad928",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
-    "dest-filename": "utils.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/gio.ts",
-    "sha256": "b9900c2a466922b16f4545e86b107ef841cc6470def6ce78ffe7a78745156b60",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
-    "dest-filename": "gio.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/gtk4.ts",
-    "sha256": "cfaa6234e0cd0cd4fce5c536e75aa7e277ba29ecc6bddda077082ec552687110",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/gtk4.ts",
+    "sha256": "d5ad078411cf6d64d13811ec0d7eef48aebffee6e043c7eaba024f0dfc1b7af1",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
     "dest-filename": "gtk4.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/gio.ts",
-    "sha256": "bc69baa09fcf23ec8e387d49ca545029f9840fbe3870b17f61b8732c5461c810",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
-    "dest-filename": "gio.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/gobject.ts",
-    "sha256": "1f0fb0a5b0f96f0dcdb73dc8a46bf53578038c1ec7688b025d9fcb6e955edd9d",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/gobject.ts",
+    "sha256": "fabe06e245c7c4c63633d89dfce93d4ca2f93a3c9638eb445692678590ad8517",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
     "dest-filename": "gobject.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/platform/unix.ts",
-    "sha256": "3e90d75adaa0746bc2158d91f09457b65efa6c9cd5e5527b2e00145623e378df",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/platform",
-    "dest-filename": "unix.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/gtk3.ts",
-    "sha256": "2d7742f04f0a0761cb30aad9c382fe77ed0f268630f6c3b21a0a7fbcc2666269",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/mod.ts",
-    "sha256": "dca4aad36a92f5ae1859f05f395fe89ababcc95bddde79ba52ed38aef9592e82",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low/paths",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/app_indicator.ts",
-    "sha256": "00deee5c5aac48d77ea0b9554c515495a634147ef7951a27ec79afa763d8bea8",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
-    "dest-filename": "app_indicator.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/types.ts",
-    "sha256": "944c4cf6bf38f160ee02b9f7d30912a3124e69f3348179b9a2a12f756a1bfbab",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low/paths",
-    "dest-filename": "types.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/gobject.ts",
-    "sha256": "c7a3642edd1e72de00c537d505be2ce56345e55deb60657234df52dfa519b270",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
-    "dest-filename": "gobject.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/eventloop.ts",
-    "sha256": "2ccb604e130ccfcd2d8eceb16ed17029f71a39e87c5d54adae3e14c17b5773c0",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
-    "dest-filename": "eventloop.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/glib.ts",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/glib.ts",
     "sha256": "da70c17dc8adb1d59255d1df1701e8815ad4ec55ebc56938a837285291c0465b",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
     "dest-filename": "glib.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/gtk4.ts",
-    "sha256": "434fe739beeb8b988277df6009ff9ef18862a10c64773ff634d23df1a308ea35",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
-    "dest-filename": "gtk4.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/high/cairo.ts",
-    "sha256": "2e4161d6572e18274cc81fa3a3c90019a732473a8c13f9737864540a471df9c6",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/high",
-    "dest-filename": "cairo.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/cairo.ts",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/cairo.ts",
     "sha256": "1d3e190169f6c291e675321c43a8af7909d87c0ae14ccf1546bb8066b2278fec",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
     "dest-filename": "cairo.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/platform/darwin.ts",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/app_indicator.ts",
+    "sha256": "00deee5c5aac48d77ea0b9554c515495a634147ef7951a27ec79afa763d8bea8",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
+    "dest-filename": "app_indicator.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/platform/darwin.ts",
     "sha256": "43dcad75dd3338eedbd87db5303f3ba3ce66660613ee80030000c20e3221d697",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/platform",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/platform",
     "dest-filename": "darwin.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/adw.ts",
-    "sha256": "c64754dbb760564947faa5fe3684ae0fb29775af226cc88084319448d0ea33db",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
-    "dest-filename": "adw.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/findLib.ts",
-    "sha256": "8ef83c9088aa8341a6737ac490c823c5c663b00cd4a053ddde233477ced2958e",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low/paths",
-    "dest-filename": "#findlib_80c0d.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/gtk3.ts",
-    "sha256": "f957408dc67cafa052e72c6a47be1fc346b550b4c4df96ddcfb6cae54c7b2bd3",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
-    "dest-filename": "gtk3.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/glib.ts",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/glib.ts",
     "sha256": "59395170bc4991633654cfdad2e9e1d9a006e3cd1dcad076cdc90196a25df302",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
     "dest-filename": "glib.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/platform/windows.ts",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/app_indicator.ts",
+    "sha256": "324292bfcaf028bcbea564e5b428ff3bb7b2a3075d7967ef96eb26c9efedbb20",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "app_indicator.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/eventloop.ts",
+    "sha256": "2ccb604e130ccfcd2d8eceb16ed17029f71a39e87c5d54adae3e14c17b5773c0",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "eventloop.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/utils.ts",
+    "sha256": "c16042944d8c79ec82fe8afb98e71997fe7613c6ce525f02e1483d54135ad928",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
+    "dest-filename": "utils.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/adw.ts",
+    "sha256": "c64754dbb760564947faa5fe3684ae0fb29775af226cc88084319448d0ea33db",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
+    "dest-filename": "adw.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/types.ts",
+    "sha256": "944c4cf6bf38f160ee02b9f7d30912a3124e69f3348179b9a2a12f756a1bfbab",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low/paths",
+    "dest-filename": "types.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/platform/windows.ts",
     "sha256": "fcc8dd43f33c4d5fcf514e8c30d53723c4af57211c8483ac522c232e090e604e",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0/src/low/paths/platform",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/platform",
     "dest-filename": "windows.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@sigmasd/gtk/0.65.0/deno.json",
-    "sha256": "78c85355db40d2c5c950de58323eb925608d5e3a8e6a598baa9e3105310140c6",
-    "dest": "vendor/jsr.io/@sigmasd/gtk/0.65.0",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/cairo.ts",
+    "sha256": "2e4161d6572e18274cc81fa3a3c90019a732473a8c13f9737864540a471df9c6",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "cairo.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/gtk3.ts",
+    "sha256": "f957408dc67cafa052e72c6a47be1fc346b550b4c4df96ddcfb6cae54c7b2bd3",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
+    "dest-filename": "gtk3.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/mod.ts",
+    "sha256": "dca4aad36a92f5ae1859f05f395fe89ababcc95bddde79ba52ed38aef9592e82",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low/paths",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/platform/unix.ts",
+    "sha256": "3e90d75adaa0746bc2158d91f09457b65efa6c9cd5e5527b2e00145623e378df",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/platform",
+    "dest-filename": "unix.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/gio.ts",
+    "sha256": "bc69baa09fcf23ec8e387d49ca545029f9840fbe3870b17f61b8732c5461c810",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low",
+    "dest-filename": "gio.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/low/paths/findLib.ts",
+    "sha256": "8ef83c9088aa8341a6737ac490c823c5c663b00cd4a053ddde233477ced2958e",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/low/paths",
+    "dest-filename": "#findlib_80c0d.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/gtk4.ts",
+    "sha256": "4e854579cad43f1ff1f5f62873e7bc923d6bf3359d0bb755d434966f40260fc3",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "gtk4.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/gobject.ts",
+    "sha256": "1f0fb0a5b0f96f0dcdb73dc8a46bf53578038c1ec7688b025d9fcb6e955edd9d",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "gobject.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/adw.ts",
+    "sha256": "6498f264ed38724716f4054c673ddbe2b13dc3d0d23f93e7b52b637b3c180d6d",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "adw.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/gio.ts",
+    "sha256": "b9900c2a466922b16f4545e86b107ef841cc6470def6ce78ffe7a78745156b60",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "gio.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/src/high/gtk3.ts",
+    "sha256": "2d7742f04f0a0761cb30aad9c382fe77ed0f268630f6c3b21a0a7fbcc2666269",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0/src/high",
+    "dest-filename": "gtk3.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@sigmasd/gtk/0.66.0/deno.json",
+    "sha256": "dd28eccbdc655e72516ce96e5c2cd8ae531b6108ea9ce4bfdd0a521ef9d77bb7",
+    "dest": "vendor/jsr.io/@sigmasd/gtk/0.66.0",
     "dest-filename": "deno.json"
   },
   {
@@ -1092,6 +1099,243 @@
     "url": "https://jsr.io/@sigmasd/qrpng/0.1.3/deno.json",
     "sha256": "e59c43e6a75d94c55eb7cb89d150552f85523cc46065239a9312400d289c88c8",
     "dest": "vendor/jsr.io/@sigmasd/qrpng/0.1.3",
+    "dest-filename": "deno.json"
+  },
+  {
+    "type": "inline",
+    "contents": "{\"scope\":\"std\",\"name\":\"assert\",\"latest\":\"1.0.19\",\"versions\":{}}",
+    "dest": "vendor/jsr.io/@std/assert",
+    "dest-filename": "meta.json"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19_meta.json",
+    "sha256": "eaada96ee120cb980bc47e040f82814d786fe8162ecc53c91d8df60b8755991e",
+    "dest": "vendor/jsr.io/@std/assert",
+    "dest-filename": "1.0.19_meta.json"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/array_includes.ts",
+    "sha256": "2dad64d743ca20af30a869ee7cf08408017bba95f11d3d172c65afc7c4197f0a",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "array_includes.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/equals.ts",
+    "sha256": "3621d3bfbef47b6a11709de0544dcce0b2c6626123fa379a4c54301f44090a8e",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "equals.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/string_includes.ts",
+    "sha256": "c6921a2799299235c662f28929ffe1e08f429892e8d28ee9307ada38d90d1f1f",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "string_includes.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/not_equals.ts",
+    "sha256": "9e376d5009eae6053d78522da3de7ceab90469861d868de655bf53f68f4b9964",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "not_equals.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/rejects.ts",
+    "sha256": "44c36f9424baa7e81c305dcd930f33585ee9408a2fa94e900a30c18da3459149",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "rejects.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/exists.ts",
+    "sha256": "f94c2c43e8657413c4a0ff8f0c6d0f4eb90b83e7bf5f22bcaffc6ee504093948",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "exists.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/fail.ts",
+    "sha256": "b7c2756c2444c546ef23477f828c5c848a4de529a128eece1ebb080480676434",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "fail.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/not_strict_equals.ts",
+    "sha256": "8bb7f371a888cdb69016131611d467729e3e62a65b24f059ed186358b83c069c",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "not_strict_equals.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/throws.ts",
+    "sha256": "0ef612c1624f0b0b4b6e07320bd24dcd5094077774c0fe608f897682b772822b",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "throws.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/not_instance_of.ts",
+    "sha256": "f2ee2c8d8a591c53aebdf6a6ff24450024f15cbf8f46edde790b5dc6280d4c9a",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "not_instance_of.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/match.ts",
+    "sha256": "b39df7aa77e4ed43e1823fd7ac6bb31229464ca7e853aa9ff1acfcf06ad54523",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "match.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/not_match.ts",
+    "sha256": "7e00371062defbb5ceaede29015d5de75bb832c3125727229f7d3b7f22bc15c6",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "not_match.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/unstable_never.ts",
+    "sha256": "8f96efec263b0f495bd6780a0190b9979d6c8d33aa45e9fda65e4b5400b21abf",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "unstable_never.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/instance_of.ts",
+    "sha256": "2c4e16ee181f424b91d27f26e7fd5bd493864ad1987c33ccb06f3eb6710c87e3",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "instance_of.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/strict_equals.ts",
+    "sha256": "92145ed74ffa8c96a2407754634c840f3ac2bc033236552a37f7b7d3d317917f",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "strict_equals.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/greater_or_equal.ts",
+    "sha256": "b4eb8147e519b7c6a46daee132908921a8e1566cea4592945aa7800811cc259a",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "greater_or_equal.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/less_or_equal.ts",
+    "sha256": "9d9eb025efa49ded1459c58288b6b9399448216db842bc59146181dd77c091e1",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "less_or_equal.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/equal.ts",
+    "sha256": "084be4c5911482a2c38431a6341db9c816677e0a277a8ced2c4c5a4cda4d4394",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "equal.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/assert.ts",
+    "sha256": "577cd3382908011da36639d019d9be54340e7e388b6db599425de0e977894318",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "assert.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/unstable_equals.ts",
+    "sha256": "4e63d0fd3c5692bcc3b479aa531b1ba1de04ed8a58dd3aa07e47df162f01bc43",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "unstable_equals.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/less.ts",
+    "sha256": "c578b053e2c554a37923885c829a9bcbaedefaf18fe812addc871f6f02d0fe1a",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "less.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/unreachable.ts",
+    "sha256": "bf47aa8b78e2eb19550a1ffe2fef74e2cca804b19fa64cffecef9a4ae4dd47d2",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "unreachable.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/object_match.ts",
+    "sha256": "4858f036c4977694488f6467e13d84414d2cfdd924efaa53a4ffe08a5e982468",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "object_match.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/assertion_error.ts",
+    "sha256": "7082ae41b34eb0bc9054d8f2867996d0593af80904f98bfc0ad4f27b98f00d91",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "assertion_error.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/false.ts",
+    "sha256": "7891e342f1c36244161cf21f554ab381fdb1df23acdd5df29e16a990129fc9b8",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "false.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/greater.ts",
+    "sha256": "18a798d5afafb0d47d8baa8a2f598df79e3bb7939937c866802a7d5f6908298a",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "greater.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/mod.ts",
+    "sha256": "c3fc0e0ff82dbeb6c2274dfc5ff3a90830834dcb0400e2d7f69380cfb8b9ec5d",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/unimplemented.ts",
+    "sha256": "13341d1f065390d682450c185bd2cc3241f05d952fb45437b450f4b1f004ca1c",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "unimplemented.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/is_error.ts",
+    "sha256": "36323f0da5b789e9be40313059e5fb3224fb81d35fa636aecc0fcf534a1f345e",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "is_error.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/unstable_strict_equals.ts",
+    "sha256": "9010dd3c0720b4df1ffe3be15c2303a327830f933d4c626755c178aa9e5e61f1",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "unstable_strict_equals.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/almost_equals.ts",
+    "sha256": "4c69f1e45a4e65bc8aa737baf336e48cf9f9b2697e4db56197895c3d0b9b1fce",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
+    "dest-filename": "almost_equals.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/assert/1.0.19/deno.json",
+    "sha256": "9d61ddfb03b6b5c110cc7ce3f66d419c1303cb59934cf2163fe67865065b59a7",
+    "dest": "vendor/jsr.io/@std/assert/1.0.19",
     "dest-filename": "deno.json"
   },
   {
@@ -1193,294 +1437,294 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"cli\",\"latest\":\"1.0.30\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"cli\",\"latest\":\"1.0.32\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/cli",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30_meta.json",
-    "sha256": "769446536522d0417d7127ebcabcafac1ab0ce6766d0eb3fca1d36326fe98d13",
+    "url": "https://jsr.io/@std/cli/1.0.32_meta.json",
+    "sha256": "188b3a100d6202d64e3f5bd3d799c7fa4f6d77f92cc65eb7f641c1fa0aa92a66",
     "dest": "vendor/jsr.io/@std/cli",
-    "dest-filename": "1.0.30_meta.json"
+    "dest-filename": "1.0.32_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/_run_length.ts",
-    "sha256": "052ca4c01a97089bd19a7d223d951ef0fa3429055e22781f4a5409e50d64806b",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "_run_length.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/mod.ts",
-    "sha256": "8b017b30f780b2b08b31d1287449cac7e66624cc5d9cb57ba3cafe6134449549",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_spinner.ts",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_spinner.ts",
     "sha256": "67c4fa828cf4004a3a7820dd68396167cc1602b3379ecb74410abe5909739de6",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
     "dest-filename": "unstable_spinner.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/_prompt_select.ts",
-    "sha256": "19c14ff5c1ca7551129532ce6f040be90625ce35bb6ba2509972c5f9dc96407e",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "_prompt_select.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/_types.ts",
+    "url": "https://jsr.io/@std/cli/1.0.32/_types.ts",
     "sha256": "22f51b1c73ca56d8243536959559c070ff6e99e76d9846a55a51ecf8787465fc",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
     "dest-filename": "_types.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_static_line.ts",
-    "sha256": "7fd86279b23d494cc2ad0832e906fc2b2ab91fd4c1408d9ba03b591ff8ea98c3",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "unstable_static_line.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_prompt_multiple_select.ts",
-    "sha256": "f23ee10796475abe0d41314e27441e13e41af1029188a969099db2dffc0da4dc",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "#unstable_prompt_mult_db113.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_progress_bar.ts",
-    "sha256": "29999acaa9142f8d08571a66e7a9e14bdd5869d3de369f64991ecd1a1945e18a",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "unstable_progress_bar.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/_unit.ts",
-    "sha256": "a05863ab5094fae57c88d67b2a03a04c77b3e460e211db2852a94966143446df",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "_unit.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_prompt_select.ts",
-    "sha256": "86caf59bc7a2d88192bebef33679d7c814cd5d94470f1311d2f6589ad700f92b",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "unstable_prompt_select.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/parse_args.ts",
-    "sha256": "f1ca35feae92abcb73c6e047d1717e2c6bc068f8cc3d60551d730cda31b2e9f5",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "parse_args.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unicode_width.ts",
-    "sha256": "6d54834efc41698b4c3663beac7db8c2714dcd50b0ffdab44820eca64e2c97d5",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "unicode_width.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_get_cursor.ts",
-    "sha256": "2c8cebb4d1414b99451435cd32f965c624237e916eea19fa22c25573c719b066",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "unstable_get_cursor.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/prompt_secret.ts",
+    "url": "https://jsr.io/@std/cli/1.0.32/prompt_secret.ts",
     "sha256": "b6d1bb3b621d0b21b26f91d409ac151829c65b6d83160d3b40c9864e572a00c9",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
     "dest-filename": "prompt_secret.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_ansi.ts",
-    "sha256": "e393a338b994505edf1f7bdccbae34693dd909d3ad1594bb8cf32d3a07509438",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
-    "dest-filename": "unstable_ansi.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/unstable_progress_bar_stream.ts",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_progress_bar_stream.ts",
     "sha256": "3c343c3a424dad436203316f2f0e0b6904ab29a088fc8298b447ba7d291d40fd",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
     "dest-filename": "#unstable_progress_ba_b71b9.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/cli/1.0.30/deno.json",
-    "sha256": "810f3f3c4226ed49f7300a109b4e2c8b7596a67984d7f1c5657ebeef633959be",
-    "dest": "vendor/jsr.io/@std/cli/1.0.30",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_prompt_select.ts",
+    "sha256": "86caf59bc7a2d88192bebef33679d7c814cd5d94470f1311d2f6589ad700f92b",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "unstable_prompt_select.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_progress_bar.ts",
+    "sha256": "29999acaa9142f8d08571a66e7a9e14bdd5869d3de369f64991ecd1a1945e18a",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "unstable_progress_bar.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/_prompt_select.ts",
+    "sha256": "a0b6c41ff7517c1f198b18f9d772e78c8bcfacaa50a170cddc030f1ed8d20633",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "_prompt_select.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_prompt_multiple_select.ts",
+    "sha256": "f23ee10796475abe0d41314e27441e13e41af1029188a969099db2dffc0da4dc",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "#unstable_prompt_mult_db113.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/unicode_width.ts",
+    "sha256": "6d54834efc41698b4c3663beac7db8c2714dcd50b0ffdab44820eca64e2c97d5",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "unicode_width.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_get_cursor.ts",
+    "sha256": "2c8cebb4d1414b99451435cd32f965c624237e916eea19fa22c25573c719b066",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "unstable_get_cursor.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_ansi.ts",
+    "sha256": "e393a338b994505edf1f7bdccbae34693dd909d3ad1594bb8cf32d3a07509438",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "unstable_ansi.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/parse_args.ts",
+    "sha256": "f1ca35feae92abcb73c6e047d1717e2c6bc068f8cc3d60551d730cda31b2e9f5",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "parse_args.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/_run_length.ts",
+    "sha256": "052ca4c01a97089bd19a7d223d951ef0fa3429055e22781f4a5409e50d64806b",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "_run_length.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/_unit.ts",
+    "sha256": "a05863ab5094fae57c88d67b2a03a04c77b3e460e211db2852a94966143446df",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "_unit.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/mod.ts",
+    "sha256": "8b017b30f780b2b08b31d1287449cac7e66624cc5d9cb57ba3cafe6134449549",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/unstable_static_line.ts",
+    "sha256": "7fd86279b23d494cc2ad0832e906fc2b2ab91fd4c1408d9ba03b591ff8ea98c3",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
+    "dest-filename": "unstable_static_line.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/cli/1.0.32/deno.json",
+    "sha256": "a0caa8209b07e578ac09c737fee6599044aba1d992874c092edb096ef176e4c4",
+    "dest": "vendor/jsr.io/@std/cli/1.0.32",
     "dest-filename": "deno.json"
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"encoding\",\"latest\":\"1.0.10\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"encoding\",\"latest\":\"1.0.11\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/encoding",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10_meta.json",
-    "sha256": "8783c6384a2d13abd5e9e87a7ae0520a30e9f56aeeaa3bdf910a3eaaf5c811a1",
+    "url": "https://jsr.io/@std/encoding/1.0.11_meta.json",
+    "sha256": "e7cef2f0b3153bccc17431e7c864a1de03a4b6d9647389c43e08aaa775d37385",
     "dest": "vendor/jsr.io/@std/encoding",
-    "dest-filename": "1.0.10_meta.json"
+    "dest-filename": "1.0.11_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/base64.ts",
-    "sha256": "48ef13f7e5a9340b62392ee288baf4813c4b9f8aa3983feb610c3228fb7abf29",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "base64.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/unstable_hex_stream.ts",
-    "sha256": "639201171da73d774782f9d76ecaacf89f5f19f425720ca34dcfdfbde067208d",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "unstable_hex_stream.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/unstable_hex.ts",
-    "sha256": "1c50fe7600e29bc1b6dbbf438a73d274b5e9a0a117140768b6b189864595f632",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "unstable_hex.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/hex.ts",
-    "sha256": "97755a7eb8d0e9394edc43ee5d5fd1ef5f5e5361c0164cb211849430ed8e13be",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "hex.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/varint.ts",
-    "sha256": "9ba2b37a024997af12e1f3eea41742ec50e63aec2aab475a71fa13a4c9f96319",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "varint.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/base64url.ts",
-    "sha256": "11d9c9a8bececb2a65d29a66f3916465cbb54f7a8934ffbf113960fc5ef997aa",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "base64url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/unstable_base32_stream.ts",
-    "sha256": "c5fb8c4a9ced4a337045512766c0979ffad70891a48cdcbdaa368cc92703aa24",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "unstable_base32_stream.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/_validate_binary_like.ts",
-    "sha256": "cc7be90176f29dafb26798433afbe370eb0bd0b482b081b6291a4cbee33df771",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "_validate_binary_like.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/_types.ts",
-    "sha256": "65db521a1e83079110f20ee8121218b7485afd9223634f03934a36e80304ddac",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "_types.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/unstable_base64_stream.ts",
-    "sha256": "537fabfe216320848e491f74b073879e316d036d1c99bc83a0d278428421ae96",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "unstable_base64_stream.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/mod.ts",
-    "sha256": "4ed7bc0878001cbcf4b41c4b1d17bac12834de288c39c7ab56073d9fcbaa0ceb",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/ascii85.ts",
-    "sha256": "d4688db5cf1cdbacac39acc916125dd95acc867d71eff7f3e46c3cc105a6ae87",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "ascii85.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/unstable_base64.ts",
-    "sha256": "2115c0f211307a6cad31bf8a1ad61b0993ae3c6dc76a128c54d4158ae3069072",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
+    "url": "https://jsr.io/@std/encoding/1.0.11/unstable_base64.ts",
+    "sha256": "fe228cca50c392682cf4a5282b2ec66bee78b58a0f905defd92091de61210f37",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
     "dest-filename": "unstable_base64.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/base58.ts",
-    "sha256": "ac7822a76defac262c0902c123806451e98c491b0057674a0375320621daee36",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "base58.ts"
+    "url": "https://jsr.io/@std/encoding/1.0.11/unstable_base64_stream.ts",
+    "sha256": "1fb941b8b7905559d64ddd2b1121b7babe20eed14e4f90e88e184615552ed846",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "unstable_base64_stream.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/_common32.ts",
-    "sha256": "bd50b070e71e1653ff973abef31e0943e40f3290afd15af70311ede8d2ceb3b1",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "_common32.ts"
+    "url": "https://jsr.io/@std/encoding/1.0.11/unstable_hex_stream.ts",
+    "sha256": "f41c77be48c6c58a4b1acbe925522d490e4f3febd3db8db6750ccd6db901faab",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "unstable_hex_stream.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/base32.ts",
-    "sha256": "ab3e6082806840a61572ce8014e4ab9ef8e1d6a123c521582eaf8325155820ce",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "base32.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/_common16.ts",
-    "sha256": "719c734906af0c0f685283845287b4157ef027fb0aefbc5cda63ef063e557b36",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
+    "url": "https://jsr.io/@std/encoding/1.0.11/_common16.ts",
+    "sha256": "98ea9ed8a6cdee88c703632a2fd630370f295e57a710aa5ac455d7b8bf2c0f2b",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
     "dest-filename": "_common16.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/_common64.ts",
-    "sha256": "5348dcf0ae12a23126a0d5fdecaf961c8209771ac3c94bebb2ff3e4eaf2f89ee",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "_common64.ts"
+    "url": "https://jsr.io/@std/encoding/1.0.11/varint.ts",
+    "sha256": "f7f88554646e11c49c9099680e3b27c1f68f5db3947b87a298bc332ebe831ec6",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "varint.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/_common_detach.ts",
-    "sha256": "3e99655ca178a5bd0f7b30b361f1cb435edefb99f4d7130ceef3108c674a9430",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
-    "dest-filename": "_common_detach.ts"
+    "url": "https://jsr.io/@std/encoding/1.0.11/unstable_hex.ts",
+    "sha256": "f382ed2859d20b3678f19afa6e86fdd54e4711f082ff114a4f5b383635f49c96",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "unstable_hex.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/unstable_base32.ts",
-    "sha256": "fd777fc432dd9fe3131007b29a192a8f1ca9801c96347717424ceea57f773324",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
+    "url": "https://jsr.io/@std/encoding/1.0.11/unstable_base32.ts",
+    "sha256": "2361c95f129303e37692dfdf37c76814cb7596395043bed2a08c10c57f68e2eb",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
     "dest-filename": "unstable_base32.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/encoding/1.0.10/deno.json",
-    "sha256": "938c7759bb21db40d81cad5a7668d6b230e42973b94bad75232f2ce522b509ea",
-    "dest": "vendor/jsr.io/@std/encoding/1.0.10",
+    "url": "https://jsr.io/@std/encoding/1.0.11/ascii85.ts",
+    "sha256": "d833f116ce84ee5e22997eefea70f030306c76d51966053cf7366686f64f9f31",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "ascii85.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/base32.ts",
+    "sha256": "5693ebd1e52872466dcc5af8d58638eb3abc4daeda73f0d4362e244b5f0a028a",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "base32.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/base64url.ts",
+    "sha256": "279f6c7930fd8e0c634bf2beb5fe4fbd0b8a5778f0cd1c5c8832f86e2b46688e",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "base64url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/_validate_binary_like.ts",
+    "sha256": "605bdf3b18c83bc1746908bf03f464cf17187fe4afcb7a0e2c7d09624729e171",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "_validate_binary_like.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/_common32.ts",
+    "sha256": "fc2269f9f72bd53c2b5ffe23854632d80cc8ce54e75e1ffa9a64fc2c0b821cdb",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "_common32.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/unstable_base32_stream.ts",
+    "sha256": "aa27a75ca98f06c2bbe2318bb28b1b38619343138e0b3bc3cc07976e5b4d898a",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "unstable_base32_stream.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/_common64.ts",
+    "sha256": "63e03685d253ea59557f2003472901d36262be0536ee9d63db7cd9facaccd106",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "_common64.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/_common_detach.ts",
+    "sha256": "71ce6c7842e8d8151a8aa153352a66ffd512863bd1d309e4b32a3d45c67d5ee3",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "_common_detach.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/hex.ts",
+    "sha256": "6a19a5fbda7e9ad543607cab41e320546136a8bc8366e0d4be8832207e496a30",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "hex.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/mod.ts",
+    "sha256": "1757d61e464616a048f44b352ae2f35989c52f6ebefb2751591ab1c57ff1554b",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/base58.ts",
+    "sha256": "7fce3972b4029e964d7f92ae7ccb8fe0da645b33e6502c7f4ae1e69186821b95",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "base58.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/_types.ts",
+    "sha256": "22f51b1c73ca56d8243536959559c070ff6e99e76d9846a55a51ecf8787465fc",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "_types.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/base64.ts",
+    "sha256": "a0af293f548df21aa4e73e3fc0ca757e8df46ebe8a7e8479bdeb26703a5b771a",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
+    "dest-filename": "base64.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/encoding/1.0.11/deno.json",
+    "sha256": "06f9f6fdbb83dd1960357aca055a94cd83e50a4046a62a95b566a66146805f65",
+    "dest": "vendor/jsr.io/@std/encoding/1.0.11",
     "dest-filename": "deno.json"
   },
   {
@@ -1965,197 +2209,197 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"http\",\"latest\":\"1.1.1\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"http\",\"latest\":\"1.1.2\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/http",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1_meta.json",
-    "sha256": "e343a9a80aea07c716b91be5c79df764144430ad2dd7c9121ed7443f08dc74f7",
+    "url": "https://jsr.io/@std/http/1.1.2_meta.json",
+    "sha256": "1c0473590d5e5b75b30b2be4833c08047dd799aeea35624fd34ec58d67fc9240",
     "dest": "vendor/jsr.io/@std/http",
-    "dest-filename": "1.1.1_meta.json"
+    "dest-filename": "1.1.2_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/negotiation.ts",
-    "sha256": "61c499d3d1aa58ce262076e300658dc732f3cb4b4d3162509b48704f2429a405",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "negotiation.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_route.ts",
-    "sha256": "dcc6b4f5c23fb6ed019759b97c2fe333e5b6023e8fad173905ec4494ed6dd802",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "unstable_route.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/user_agent.ts",
-    "sha256": "806722dad0132f2019c0ac5679e02090c7d9f8c255cda953936f7f50de3b1221",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "user_agent.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_formdata_encoder_stream.ts",
-    "sha256": "ff529268eeeb260d98e06edc13769be80ec03f3ad0f278cc987e764068684cd0",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "#unstable_formdata_en_ebbd9.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/_types.ts",
-    "sha256": "22f51b1c73ca56d8243536959559c070ff6e99e76d9846a55a51ecf8787465fc",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "_types.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/server_sent_event_stream.ts",
-    "sha256": "4fe6c4f9c855bf278cdc8e787b76a2a3d9bbfc3a6f8096b3b17126c03052a1fd",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "server_sent_event_stream.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_cache_control.ts",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_cache_control.ts",
     "sha256": "9c14c3e309a0c0cb05badcf7f8e094fb946e42caea964bf956019c03cabce710",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
     "dest-filename": "unstable_cache_control.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/_negotiation/media_type.ts",
-    "sha256": "5e9e37f173a9b4439aa9ee4c240bdb0d34c1c2f0da7231537ccb64705eb2e9be",
-    "dest": "vendor/jsr.io/@std/http/1.1.1/_negotiation",
-    "dest-filename": "media_type.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/_negotiation/encoding.ts",
-    "sha256": "aba7ccc3ec70d29fdc9b3f07a27aa40df28349e8d940c16ffd1e3ecb4bd4f525",
-    "dest": "vendor/jsr.io/@std/http/1.1.1/_negotiation",
-    "dest-filename": "encoding.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_problem_details.ts",
-    "sha256": "d7d2c5801412f704a443faeb78ed4a9b4ecb37c475cfa7a7aa530195e008451b",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "unstable_problem_details.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/file_server.ts",
-    "sha256": "c9fbd58b6d31574207b79b1dd157e925ab48bff78a02381176f6e0eb9675ef07",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "file_server.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_header.ts",
-    "sha256": "fd11c521fe92b550af6b107ad3437d12ade4e75515dfd707381597c3f563db2b",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "unstable_header.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_method.ts",
-    "sha256": "6db7d60aac2255d4559c30a9c80eaf29109faa19898ac5b34d0c5b959b0fd706",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "unstable_method.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/_negotiation/language.ts",
-    "sha256": "16a60753de6b09eedd16fd24edc6f959dc2d5944fb54ee34af05beed1a1cc0c3",
-    "dest": "vendor/jsr.io/@std/http/1.1.1/_negotiation",
-    "dest-filename": "language.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/mod.ts",
-    "sha256": "b0b91cd0c2af377bc9d3fb6ac7da77ba0aa36560018ce24d1da2dbbfb592d91a",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/_negotiation/common.ts",
-    "sha256": "5e9688228110743b7f1c706941e6a5afb56fc4afbb8c5db7c9e7294b24c21692",
-    "dest": "vendor/jsr.io/@std/http/1.1.1/_negotiation",
-    "dest-filename": "common.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/status.ts",
+    "url": "https://jsr.io/@std/http/1.1.2/status.ts",
     "sha256": "cb6c07f9e25487fc0768f844725c771750e1e5d87f99ed49ec54c324a2ef3054",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
     "dest-filename": "status.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/etag.ts",
-    "sha256": "1da13a701c26006815d6a63a58d792de80056c7c1655bc8dd7bdcfb705e6e898",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "etag.ts"
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_method.ts",
+    "sha256": "6db7d60aac2255d4559c30a9c80eaf29109faa19898ac5b34d0c5b959b0fd706",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "unstable_method.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_structured_fields.ts",
-    "sha256": "e2228bfdd911f7ac04e0a3819bef09f9539a06b4bccee809e2c456ee7c834e65",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "unstable_structured_fields.ts"
+    "url": "https://jsr.io/@std/http/1.1.2/_negotiation/language.ts",
+    "sha256": "16a60753de6b09eedd16fd24edc6f959dc2d5944fb54ee34af05beed1a1cc0c3",
+    "dest": "vendor/jsr.io/@std/http/1.1.2/_negotiation",
+    "dest-filename": "language.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_file_server.ts",
-    "sha256": "2a70e532a81078c41f4b1b5f6538ca5d24d5246d207e684340bf079b162cf26f",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "unstable_file_server.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/server_sent_event_parse_stream.ts",
+    "url": "https://jsr.io/@std/http/1.1.2/server_sent_event_parse_stream.ts",
     "sha256": "85ef1194f469b44a9542315eb6ad84107679029191906dfdcd79bb6ac439475f",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
     "dest-filename": "#server_sent_event_pa_25e99.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/cookie.ts",
-    "sha256": "ff94d82b7055b2aa14c2cc5dc81dc69a15e3978a61a6445481351b4ba6b2538a",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "cookie.ts"
+    "url": "https://jsr.io/@std/http/1.1.2/_negotiation/media_type.ts",
+    "sha256": "5e9e37f173a9b4439aa9ee4c240bdb0d34c1c2f0da7231537ccb64705eb2e9be",
+    "dest": "vendor/jsr.io/@std/http/1.1.2/_negotiation",
+    "dest-filename": "media_type.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_signed_cookie.ts",
-    "sha256": "0a1e9e62c67a72ddc2d382a4dbeee21ece975bb56bbd38b9ca24291b39aed28f",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
-    "dest-filename": "unstable_signed_cookie.ts"
+    "url": "https://jsr.io/@std/http/1.1.2/server_sent_event_stream.ts",
+    "sha256": "4fe6c4f9c855bf278cdc8e787b76a2a3d9bbfc3a6f8096b3b17126c03052a1fd",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "server_sent_event_stream.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_formdata_decoder_stream.ts",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_formdata_decoder_stream.ts",
     "sha256": "3372d707bb0b1eb2dc94f39a621bca7f3ce62c02595f41253d06858762061200",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
     "dest-filename": "#unstable_formdata_de_c1b8c.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/unstable_message_signatures.ts",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_header.ts",
+    "sha256": "fd11c521fe92b550af6b107ad3437d12ade4e75515dfd707381597c3f563db2b",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "unstable_header.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/_types.ts",
+    "sha256": "22f51b1c73ca56d8243536959559c070ff6e99e76d9846a55a51ecf8787465fc",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "_types.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/file_server.ts",
+    "sha256": "cb4f5845e954afa377779fc78a20138090e42a1f0cec0c900458435269b95dff",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "file_server.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_structured_fields.ts",
+    "sha256": "7898638eb5c3ee7d2fe85265a6461c57ecd5f9a90650b83582ec9f091e0bf262",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "unstable_structured_fields.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/cookie.ts",
+    "sha256": "ff94d82b7055b2aa14c2cc5dc81dc69a15e3978a61a6445481351b4ba6b2538a",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "cookie.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_formdata_encoder_stream.ts",
+    "sha256": "d24792c79c30c7c348c1eff44190a89ceba83f9180f9bb814f20d665a1e23690",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "#unstable_formdata_en_ebbd9.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_problem_details.ts",
+    "sha256": "914d59765d34aff12a8372ffd50da02cb4ecab2745e11febe5082312d669a023",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "unstable_problem_details.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_signed_cookie.ts",
+    "sha256": "dc6de748f4112ff6f9410c1c0d0f57bfda5a8550a3019fccc73431853d89428a",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "unstable_signed_cookie.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/etag.ts",
+    "sha256": "b7f67f245f1c09b4b6bcb261ec1a7370552c930aadf197a8cb0a125ac7beb031",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "etag.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/user_agent.ts",
+    "sha256": "806722dad0132f2019c0ac5679e02090c7d9f8c255cda953936f7f50de3b1221",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "user_agent.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_message_signatures.ts",
     "sha256": "99e3e275a7ce174639ab48494f82750913320b2023aaa22e349236e2213f2312",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
     "dest-filename": "unstable_message_signatures.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/http/1.1.1/deno.json",
-    "sha256": "4db469fde82fd398b9b2aa3237f4f47460d7c5bc9e1df858e7b55420710c2427",
-    "dest": "vendor/jsr.io/@std/http/1.1.1",
+    "url": "https://jsr.io/@std/http/1.1.2/mod.ts",
+    "sha256": "b0b91cd0c2af377bc9d3fb6ac7da77ba0aa36560018ce24d1da2dbbfb592d91a",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_route.ts",
+    "sha256": "dcc6b4f5c23fb6ed019759b97c2fe333e5b6023e8fad173905ec4494ed6dd802",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "unstable_route.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/_negotiation/encoding.ts",
+    "sha256": "aba7ccc3ec70d29fdc9b3f07a27aa40df28349e8d940c16ffd1e3ecb4bd4f525",
+    "dest": "vendor/jsr.io/@std/http/1.1.2/_negotiation",
+    "dest-filename": "encoding.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/_negotiation/common.ts",
+    "sha256": "5e9688228110743b7f1c706941e6a5afb56fc4afbb8c5db7c9e7294b24c21692",
+    "dest": "vendor/jsr.io/@std/http/1.1.2/_negotiation",
+    "dest-filename": "common.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/unstable_file_server.ts",
+    "sha256": "2a70e532a81078c41f4b1b5f6538ca5d24d5246d207e684340bf079b162cf26f",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "unstable_file_server.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/negotiation.ts",
+    "sha256": "61c499d3d1aa58ce262076e300658dc732f3cb4b4d3162509b48704f2429a405",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
+    "dest-filename": "negotiation.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/http/1.1.2/deno.json",
+    "sha256": "569d99846d01bc077b7955ddc77b56655fb44a2f0e89038409cbcb4e421d0f2d",
+    "dest": "vendor/jsr.io/@std/http/1.1.2",
     "dest-filename": "deno.json"
   },
   {
@@ -2506,561 +2750,561 @@
   },
   {
     "type": "inline",
-    "contents": "{\"scope\":\"std\",\"name\":\"path\",\"latest\":\"1.1.5\",\"versions\":{}}",
+    "contents": "{\"scope\":\"std\",\"name\":\"path\",\"latest\":\"1.1.6\",\"versions\":{}}",
     "dest": "vendor/jsr.io/@std/path",
     "dest-filename": "meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5_meta.json",
-    "sha256": "ccea00982ea28c36becaf6e62f855406c76a8c32d462f66f415bbb7d83a271bc",
+    "url": "https://jsr.io/@std/path/1.1.6_meta.json",
+    "sha256": "c68485c2a4dfbb5ae3cc74fae4e8c4e5d874cf8a8ed12927917235c758b46cbe",
     "dest": "vendor/jsr.io/@std/path",
-    "dest-filename": "1.1.5_meta.json"
+    "dest-filename": "1.1.6_meta.json"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/basename.ts",
-    "sha256": "5d5875b17382f5798124eb4f0d0c940ffabee68bf4a4600decdbb35b72050e0c",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "basename.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/parse.ts",
-    "sha256": "11d426b1565a5a17ce74e5829f46365d0bd2931e797788a55c2b55e5dff9e56f",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "parse.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/glob_to_regexp.ts",
-    "sha256": "a84c5025c29790106d1c5eaa3c75749034e90147961315bcc085b8092a50127d",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "glob_to_regexp.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/join_globs.ts",
-    "sha256": "581794c26dedad721c703df7bf210c36e72a0dbf0721891321fcc69a4d7faa44",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "join_globs.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/to_namespaced_path.ts",
-    "sha256": "d0c113e0c72abd98081f1c7ebbb16b3ef12c6a6d38ba5502f5f80b4e1a0f9fbd",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "to_namespaced_path.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/constants.ts",
-    "sha256": "47fcb9de2922d95386e1964a3837aa3b433d40cdcf7d6d2de67098a0f7b9772d",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "constants.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/is_absolute.ts",
-    "sha256": "97528340499c2f4353e7f8c4a7fc783c98678193ddb2917a15ccb33760e32ed9",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "is_absolute.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/common.ts",
-    "sha256": "5b9c79a4309be206c86c3b5a631628d22e60c3cae1a81692906acb5a0dec98c3",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "common.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/to_namespaced_path.ts",
-    "sha256": "0d969a1cb768d51843d3c86c94e9f77e6eb74242a9a2721b68a9c78e8408b508",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "to_namespaced_path.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/common.ts",
-    "sha256": "e8642cc2bb68b75050980641eec5ef8a601af23af7231601193d63520a972eb0",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "common.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/strip_trailing_separators.ts",
-    "sha256": "e75579fccd8430db70087212b14b9c86be05701fad7541afdcc170d97f78354e",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "strip_trailing_separators.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/extname.ts",
-    "sha256": "e869a8ba013046ec32e87125ac5b8988fd823cedf9ab0b1b1110f8b6766473f1",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "extname.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/resolve.ts",
-    "sha256": "fcf2a48dfbb8b1f6b9c9ca1e471a0f6a6486dd6adca2ef03de6511da5177f57c",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "resolve.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/join_globs.ts",
-    "sha256": "e011ca82bdca167266ba5797c34bc5deb55a3bc317fcbc60d6c3a6a6f46f5d37",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "join_globs.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/env.ts",
-    "sha256": "30a02cf5a37528225dc492071f31ab3cf2fdcc0cfffee7407f7661354d2b8328",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "env.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/to_file_url.ts",
-    "sha256": "823328ba7840d8fb7e21c68de6131088a562f42ce829f51f3914fe56c3160aa2",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "to_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/to_file_url.ts",
-    "sha256": "b14c8fcaf7c25a93c8a40788232a5186ff8074d3df21a341aa7e9db4ec4cdd15",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "to_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/mod.ts",
-    "sha256": "3aeb1905ecc66ba511e09365a4996c3b9d427453b103f49b8234e144c718bb5b",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/format.ts",
-    "sha256": "4208834e5090d2c37aa751f507118afcdd40fe0c95922e401f87530595ab8587",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "format.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/normalize_glob.ts",
-    "sha256": "4fb4d9fbd9ef9e4201568b07a91df3684ff3e0da7b5155538fbc03fca712ccb9",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "normalize_glob.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/normalize.ts",
-    "sha256": "261b71bdc474f90ed41a2d534cdd847404e10cc9cec40181a246fd4cd6a9b2e1",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "normalize.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/normalize_glob.ts",
-    "sha256": "bf4beb6d73d4754ab49ae4c076493e11e6540963fb04d37d806bc5266b8fd93c",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "normalize_glob.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/is_glob.ts",
-    "sha256": "83afdc40c73c6d858580396722ce0a8f6a1fd2b0641430bc085ef388ebeb1398",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "is_glob.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/parse.ts",
-    "sha256": "7ff8f9c0cfd2c2a681fd2ace46865c54963a5296aea4b838222e5cb6fc05d648",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "parse.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/relative.ts",
-    "sha256": "953c2d73be277ecca964b6398e91116bed100bb014cb5c40863bf9a01f880817",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/relative.ts",
+    "sha256": "200e4c2d3dc80fcb239811b19cdd6fb024598a99c144569101a53b487f6333f0",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
     "dest-filename": "relative.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/is_glob.ts",
-    "sha256": "1a4e1d158e82f919156fbd4c455a575cb9afe69ca8c8e1e076405d3233306b76",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "is_glob.ts"
+    "url": "https://jsr.io/@std/path/1.1.6/windows/_util.ts",
+    "sha256": "2f08e09d7f056b39a7d25b006172c418f6b713f13dccab72644597105d03544f",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "_util.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/to_file_url.ts",
-    "sha256": "b2875198966c5d1a51ec74de69b45edadabd6404e9a31d3666cb7ce7bdd22d21",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "to_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/constants.ts",
-    "sha256": "c85dbcaa9fa02360455783a189f9095ab93927428c7eb7827f2ad2d14cdb4d8c",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "constants.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/extname.ts",
-    "sha256": "bba833c3f4c032e9b32fd9d9c36b723961a5796412c6ba385f5cdf22323055e3",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "extname.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/normalize.ts",
-    "sha256": "2713ffd1098ab564815985f374077b7b045525a4e01885c0aecb90eae173de90",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "normalize.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/format.ts",
-    "sha256": "639e0b498cd9cb417ceb13de1a19cd25ad8c327bd3c4d2d338ba540302c19739",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "format.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/join.ts",
-    "sha256": "612ca3e30576536ce78b0beb9a2cfb36d1260f1ac9498bed1d477b3aee12e956",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "join.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/normalize.ts",
-    "sha256": "a777e589cbaca3e29317070375cb5ae0aa4a4ca93436eab31fe4f54f9894dc72",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "normalize.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/from_file_url.ts",
-    "sha256": "bd111e2b25cd65067f2ac4b649697dc7eed80e28dd1ebee394e9019aa5f1f2cd",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "from_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/dirname.ts",
-    "sha256": "7825347bbda8eb8509ed29ce74eee8b9c3c1a9d8db3fdced098a9f18aa547fb7",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/dirname.ts",
+    "sha256": "71285ac91f04ee235af1748b8f6e2bf0f6367894bd093eb780a89dbc6223bd48",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
     "dest-filename": "dirname.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/glob_to_reg_exp.ts",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/to_file_url.ts",
+    "sha256": "2013f91d5c5c786281fabab70caa5a7c0b34fc9dffe93767cec79830128c6744",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "to_file_url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/to_file_url.ts",
+    "sha256": "823328ba7840d8fb7e21c68de6131088a562f42ce829f51f3914fe56c3160aa2",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "to_file_url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/resolve.ts",
+    "sha256": "fcf2a48dfbb8b1f6b9c9ca1e471a0f6a6486dd6adca2ef03de6511da5177f57c",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "resolve.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/constants.ts",
+    "sha256": "1f7a1f2d726ce3c0326b3872c6abff27cd56b4f49d64565dbbb89c9f6257f60a",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "constants.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/format.ts",
+    "sha256": "15ddd7a590ff53a46542e700f4950678872bbd6bb8f938b87657646cd9d484c2",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "format.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/format.ts",
+    "sha256": "639e0b498cd9cb417ceb13de1a19cd25ad8c327bd3c4d2d338ba540302c19739",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "format.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/constants.ts",
+    "sha256": "4ced1dbc05194db908329efec67f5f6b1f801b4165c26a07ec9768fc482aac4f",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "constants.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/join.ts",
+    "sha256": "612ca3e30576536ce78b0beb9a2cfb36d1260f1ac9498bed1d477b3aee12e956",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "join.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/normalize.ts",
+    "sha256": "3b4aa4e01dce37c67c619c2483d5ab32dfb32cbb5b1063f26e08132bdf8d9494",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "normalize.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/is_absolute.ts",
+    "sha256": "97528340499c2f4353e7f8c4a7fc783c98678193ddb2917a15ccb33760e32ed9",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "is_absolute.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/to_file_url.ts",
+    "sha256": "b2875198966c5d1a51ec74de69b45edadabd6404e9a31d3666cb7ce7bdd22d21",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "to_file_url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/common.ts",
+    "sha256": "a1d4d4c52aa5f02dbad1a4547f8eae388fe34176fbaf4ed7dc02f5c6d913a491",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "common.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/join_globs.ts",
+    "sha256": "581794c26dedad721c703df7bf210c36e72a0dbf0721891321fcc69a4d7faa44",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "join_globs.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/glob_to_reg_exp.ts",
     "sha256": "09e3680262f2b6fedb1374301994b9c9d881058cd6a711fca3a79b5a2b65ca35",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
     "dest-filename": "glob_to_reg_exp.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/basename.ts",
+    "url": "https://jsr.io/@std/path/1.1.6/basename.ts",
     "sha256": "8905b9e6806a6a5f12878622b34ffd70c8d94f3dac08db211ac19940d7a0bd49",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
     "dest-filename": "basename.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/dirname.ts",
-    "sha256": "7ae214bc635506fd37ddef2947600ef7a57c38861882f7b8bf58439f526bf3f3",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "dirname.ts"
+    "url": "https://jsr.io/@std/path/1.1.6/glob_to_regexp.ts",
+    "sha256": "a84c5025c29790106d1c5eaa3c75749034e90147961315bcc085b8092a50127d",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "glob_to_regexp.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/common.ts",
-    "sha256": "a1d4d4c52aa5f02dbad1a4547f8eae388fe34176fbaf4ed7dc02f5c6d913a491",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "common.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/resolve.ts",
-    "sha256": "28971632e0608c7d31c0b8e4d37fad1aacd67cfd23ad2e69b1b7e9b051d78f56",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "resolve.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/dirname.ts",
-    "sha256": "a777e589cbaca3e29317070375cb5ae0aa4a4ca93436eab31fe4f54f9894dc72",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "dirname.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/relative.ts",
-    "sha256": "696bb4e5f00ea6dab9762ac52e020e5a929dc1c089b1c65cc880c552954379a0",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "relative.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/mod.ts",
-    "sha256": "3e687da35f3b299fc83ad97b2a36448451b9b12f03ebb3413afd6fdec6ea9255",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/basename.ts",
-    "sha256": "3cae4a439e60d6e6683cacdaa688c586cc99e6fa3849f065ce7aa396b9ed1533",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "basename.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/common.ts",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/common.ts",
     "sha256": "085944ad0d1e48bb98c2272dad136dd57120b22097d0a72614e0ad1a44d44340",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
     "dest-filename": "common.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/_util.ts",
-    "sha256": "f143f08b760e06181a1ae4e32b7dcc706c70bfd7601b3d6f6a36bef380a4cb0e",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "_util.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/types.ts",
-    "sha256": "8deab60cec9fdffcf6dc142663504214bbf46f9f8c5f8431131443d042492c5c",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "types.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/basename.ts",
-    "sha256": "bbc410d0dace7364fc3d2a47951d5220d41f90ddec121ea98d3eb6cd0ea9ee19",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "basename.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/normalize_string.ts",
-    "sha256": "3d7215861fa355bb09714ff3d8a358b18af5200f59b3c72181b6fb7919c47ad6",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "normalize_string.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/format.ts",
-    "sha256": "15ddd7a590ff53a46542e700f4950678872bbd6bb8f938b87657646cd9d484c2",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "format.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/constants.ts",
-    "sha256": "4ced1dbc05194db908329efec67f5f6b1f801b4165c26a07ec9768fc482aac4f",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "constants.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/extname.ts",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/extname.ts",
     "sha256": "bc42a2003d9851c8204f18e95293f0e8d038ddbe627fe725a7e4dbecac7fafb1",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
     "dest-filename": "extname.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/normalize.ts",
-    "sha256": "3b4aa4e01dce37c67c619c2483d5ab32dfb32cbb5b1063f26e08132bdf8d9494",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "normalize.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/from_file_url.ts",
-    "sha256": "e029dd15568240f89425cb95ab253191f4f12d572272905a184af282a4009166",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "from_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/join_globs.ts",
-    "sha256": "ebb42a04ebb2fccea867db00dff1864cc5a1a5adb5c9d840d1dead419bee2b05",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "join_globs.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/dirname.ts",
-    "sha256": "71285ac91f04ee235af1748b8f6e2bf0f6367894bd093eb780a89dbc6223bd48",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "dirname.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/constants.ts",
-    "sha256": "1f7a1f2d726ce3c0326b3872c6abff27cd56b4f49d64565dbbb89c9f6257f60a",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "constants.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/relative.ts",
+    "url": "https://jsr.io/@std/path/1.1.6/relative.ts",
     "sha256": "a4dd7da3550d67595512a88d39699aa8b63b087d0cd0835b8d6961eb4876e9f9",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
     "dest-filename": "relative.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/to_namespaced_path.ts",
-    "sha256": "c69eaf125c09517d8fda7d1b0890ab5e678eb2bfb9fc8c6531afaeb7f31e1108",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "to_namespaced_path.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/to_file_url.ts",
-    "sha256": "27c6d70d6c42b886d0af261fcd34f59a8aff6d45b99f94b2718f05dfb25ee514",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "to_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/mod.ts",
-    "sha256": "253130176ce04837fa198e827231b4a5cf27ad494a12dfd415524927ec43a4a0",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "mod.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/glob_to_regexp.ts",
-    "sha256": "14ef8ee07fb12160f350425f28276c6c6dba1f3a0612dfb137ed9f63c2b23b96",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "glob_to_regexp.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/is_absolute.ts",
-    "sha256": "7bd7f594c952c1c054081c62f83d1068ddc3c9e12d0e607c3eff030750ed34e6",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "is_absolute.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/parse.ts",
-    "sha256": "2842f96b4e08a3af33b073122049eb33b1c7ad920d6e6bbc5fc1bc00e6a70031",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "parse.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/join.ts",
-    "sha256": "f09d0a75266f48809475ab8d1f88c3f4b6139e0b81d914791ecc5bfea6b34cd5",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "join.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/format.ts",
-    "sha256": "51c36c568b6221f779c6c5cb3b53585b97e8772aea843ff84169b47119c03bb8",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
-    "dest-filename": "format.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/resolve.ts",
-    "sha256": "ff56eee2fc463cabeebf972b8c70bad7ea48c1fe3be9fe8ddafe8ab50af6e4f1",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "resolve.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/glob_to_regexp.ts",
-    "sha256": "2fe874dcbcbc393027c2d7b3f011559f9da853b0ce9f23996dd2a5a7fa42b52c",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "glob_to_regexp.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/from_file_url.ts",
-    "sha256": "d233154b7ddf26a8310bfa078c311fd901b8daa1033181b51196a3ae95faf5ce",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "from_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/from_file_url.ts",
-    "sha256": "e86443242a56bdcf67cfd05d9928b0cc869e9660386b34eac00be2ba9e70349e",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "from_file_url.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/posix/join.ts",
-    "sha256": "274d92b81765cf2a8f70e183c18d2e1890bddfcf20d6989f06c918ae1dcf663c",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/posix",
-    "dest-filename": "join.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/normalize_glob.ts",
-    "sha256": "d1ec8d1cdc0c5ddb64b75f8b18bfe545b429fcbd608513e091fb558b9a8a7bce",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "normalize_glob.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/is_absolute.ts",
-    "sha256": "c200e7bfbbffc9eed016d1a8bfc5025b0422c2d3c19859b710f6935b28dc32aa",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
-    "dest-filename": "is_absolute.ts"
-  },
-  {
-    "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/assert_path.ts",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/assert_path.ts",
     "sha256": "e458f158f3ced05d4fe7462dd79edf0d8aa0385a71a4bbb14f1d366641c423f8",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
     "dest-filename": "assert_path.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/_util.ts",
-    "sha256": "2f08e09d7f056b39a7d25b006172c418f6b713f13dccab72644597105d03544f",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/_util.ts",
+    "sha256": "f143f08b760e06181a1ae4e32b7dcc706c70bfd7601b3d6f6a36bef380a4cb0e",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
     "dest-filename": "_util.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/windows/is_glob.ts",
-    "sha256": "83afdc40c73c6d858580396722ce0a8f6a1fd2b0641430bc085ef388ebeb1398",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/windows",
-    "dest-filename": "is_glob.ts"
+    "url": "https://jsr.io/@std/path/1.1.6/from_file_url.ts",
+    "sha256": "e029dd15568240f89425cb95ab253191f4f12d572272905a184af282a4009166",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "from_file_url.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/_common/relative.ts",
-    "sha256": "200e4c2d3dc80fcb239811b19cdd6fb024598a99c144569101a53b487f6333f0",
-    "dest": "vendor/jsr.io/@std/path/1.1.5/_common",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/mod.ts",
+    "sha256": "3aeb1905ecc66ba511e09365a4996c3b9d427453b103f49b8234e144c718bb5b",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/common.ts",
+    "sha256": "e8642cc2bb68b75050980641eec5ef8a601af23af7231601193d63520a972eb0",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "common.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/env.ts",
+    "sha256": "30a02cf5a37528225dc492071f31ab3cf2fdcc0cfffee7407f7661354d2b8328",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "env.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/constants.ts",
+    "sha256": "47fcb9de2922d95386e1964a3837aa3b433d40cdcf7d6d2de67098a0f7b9772d",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "constants.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/mod.ts",
+    "sha256": "253130176ce04837fa198e827231b4a5cf27ad494a12dfd415524927ec43a4a0",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/join_globs.ts",
+    "sha256": "e011ca82bdca167266ba5797c34bc5deb55a3bc317fcbc60d6c3a6a6f46f5d37",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "join_globs.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/glob_to_regexp.ts",
+    "sha256": "2fe874dcbcbc393027c2d7b3f011559f9da853b0ce9f23996dd2a5a7fa42b52c",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "glob_to_regexp.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/parse.ts",
+    "sha256": "11d426b1565a5a17ce74e5829f46365d0bd2931e797788a55c2b55e5dff9e56f",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "parse.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/to_namespaced_path.ts",
+    "sha256": "0d969a1cb768d51843d3c86c94e9f77e6eb74242a9a2721b68a9c78e8408b508",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "to_namespaced_path.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/basename.ts",
+    "sha256": "5d5875b17382f5798124eb4f0d0c940ffabee68bf4a4600decdbb35b72050e0c",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "basename.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/types.ts",
+    "sha256": "8deab60cec9fdffcf6dc142663504214bbf46f9f8c5f8431131443d042492c5c",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "types.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/join.ts",
+    "sha256": "274d92b81765cf2a8f70e183c18d2e1890bddfcf20d6989f06c918ae1dcf663c",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "join.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/basename.ts",
+    "sha256": "bbc410d0dace7364fc3d2a47951d5220d41f90ddec121ea98d3eb6cd0ea9ee19",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "basename.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/normalize.ts",
+    "sha256": "261b71bdc474f90ed41a2d534cdd847404e10cc9cec40181a246fd4cd6a9b2e1",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "normalize.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/strip_trailing_separators.ts",
+    "sha256": "e75579fccd8430db70087212b14b9c86be05701fad7541afdcc170d97f78354e",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "strip_trailing_separators.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/from_file_url.ts",
+    "sha256": "e86443242a56bdcf67cfd05d9928b0cc869e9660386b34eac00be2ba9e70349e",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "from_file_url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/join.ts",
+    "sha256": "f09d0a75266f48809475ab8d1f88c3f4b6139e0b81d914791ecc5bfea6b34cd5",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "join.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/normalize_string.ts",
+    "sha256": "3d7215861fa355bb09714ff3d8a358b18af5200f59b3c72181b6fb7919c47ad6",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "normalize_string.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/resolve.ts",
+    "sha256": "28971632e0608c7d31c0b8e4d37fad1aacd67cfd23ad2e69b1b7e9b051d78f56",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "resolve.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/from_file_url.ts",
+    "sha256": "d233154b7ddf26a8310bfa078c311fd901b8daa1033181b51196a3ae95faf5ce",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "from_file_url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/glob_to_regexp.ts",
+    "sha256": "14ef8ee07fb12160f350425f28276c6c6dba1f3a0612dfb137ed9f63c2b23b96",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "glob_to_regexp.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/parse.ts",
+    "sha256": "7ff8f9c0cfd2c2a681fd2ace46865c54963a5296aea4b838222e5cb6fc05d648",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "parse.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/dirname.ts",
+    "sha256": "7825347bbda8eb8509ed29ce74eee8b9c3c1a9d8db3fdced098a9f18aa547fb7",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "dirname.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/normalize_glob.ts",
+    "sha256": "4fb4d9fbd9ef9e4201568b07a91df3684ff3e0da7b5155538fbc03fca712ccb9",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "normalize_glob.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/dirname.ts",
+    "sha256": "a777e589cbaca3e29317070375cb5ae0aa4a4ca93436eab31fe4f54f9894dc72",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "dirname.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/mod.ts",
+    "sha256": "3e687da35f3b299fc83ad97b2a36448451b9b12f03ebb3413afd6fdec6ea9255",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "mod.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/to_namespaced_path.ts",
+    "sha256": "d0c113e0c72abd98081f1c7ebbb16b3ef12c6a6d38ba5502f5f80b4e1a0f9fbd",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "to_namespaced_path.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/format.ts",
+    "sha256": "51c36c568b6221f779c6c5cb3b53585b97e8772aea843ff84169b47119c03bb8",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "format.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/relative.ts",
+    "sha256": "953c2d73be277ecca964b6398e91116bed100bb014cb5c40863bf9a01f880817",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
     "dest-filename": "relative.ts"
   },
   {
     "type": "file",
-    "url": "https://jsr.io/@std/path/1.1.5/deno.json",
-    "sha256": "52b3d509dc77790fb6d9bf585de1300f5f0507e958cf07c79af626b1893f2be5",
-    "dest": "vendor/jsr.io/@std/path/1.1.5",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/constants.ts",
+    "sha256": "c85dbcaa9fa02360455783a189f9095ab93927428c7eb7827f2ad2d14cdb4d8c",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "constants.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/is_glob.ts",
+    "sha256": "83afdc40c73c6d858580396722ce0a8f6a1fd2b0641430bc085ef388ebeb1398",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "is_glob.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/is_absolute.ts",
+    "sha256": "7bd7f594c952c1c054081c62f83d1068ddc3c9e12d0e607c3eff030750ed34e6",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "is_absolute.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/normalize.ts",
+    "sha256": "a777e589cbaca3e29317070375cb5ae0aa4a4ca93436eab31fe4f54f9894dc72",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "normalize.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/common.ts",
+    "sha256": "5b9c79a4309be206c86c3b5a631628d22e60c3cae1a81692906acb5a0dec98c3",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "common.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/basename.ts",
+    "sha256": "3cae4a439e60d6e6683cacdaa688c586cc99e6fa3849f065ce7aa396b9ed1533",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "basename.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/extname.ts",
+    "sha256": "bba833c3f4c032e9b32fd9d9c36b723961a5796412c6ba385f5cdf22323055e3",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "extname.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/normalize.ts",
+    "sha256": "2713ffd1098ab564815985f374077b7b045525a4e01885c0aecb90eae173de90",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "normalize.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/to_namespaced_path.ts",
+    "sha256": "c69eaf125c09517d8fda7d1b0890ab5e678eb2bfb9fc8c6531afaeb7f31e1108",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "to_namespaced_path.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/normalize_glob.ts",
+    "sha256": "bf4beb6d73d4754ab49ae4c076493e11e6540963fb04d37d806bc5266b8fd93c",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "normalize_glob.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/_common/from_file_url.ts",
+    "sha256": "bd111e2b25cd65067f2ac4b649697dc7eed80e28dd1ebee394e9019aa5f1f2cd",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/_common",
+    "dest-filename": "from_file_url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/join_globs.ts",
+    "sha256": "ebb42a04ebb2fccea867db00dff1864cc5a1a5adb5c9d840d1dead419bee2b05",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "join_globs.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/extname.ts",
+    "sha256": "e869a8ba013046ec32e87125ac5b8988fd823cedf9ab0b1b1110f8b6766473f1",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "extname.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/is_absolute.ts",
+    "sha256": "c200e7bfbbffc9eed016d1a8bfc5025b0422c2d3c19859b710f6935b28dc32aa",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "is_absolute.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/resolve.ts",
+    "sha256": "ff56eee2fc463cabeebf972b8c70bad7ea48c1fe3be9fe8ddafe8ab50af6e4f1",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "resolve.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/parse.ts",
+    "sha256": "2842f96b4e08a3af33b073122049eb33b1c7ad920d6e6bbc5fc1bc00e6a70031",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "parse.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/is_glob.ts",
+    "sha256": "83afdc40c73c6d858580396722ce0a8f6a1fd2b0641430bc085ef388ebeb1398",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "is_glob.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/windows/relative.ts",
+    "sha256": "696bb4e5f00ea6dab9762ac52e020e5a929dc1c089b1c65cc880c552954379a0",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/windows",
+    "dest-filename": "relative.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/posix/format.ts",
+    "sha256": "4208834e5090d2c37aa751f507118afcdd40fe0c95922e401f87530595ab8587",
+    "dest": "vendor/jsr.io/@std/path/1.1.6/posix",
+    "dest-filename": "format.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/is_glob.ts",
+    "sha256": "1a4e1d158e82f919156fbd4c455a575cb9afe69ca8c8e1e076405d3233306b76",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "is_glob.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/dirname.ts",
+    "sha256": "7ae214bc635506fd37ddef2947600ef7a57c38861882f7b8bf58439f526bf3f3",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "dirname.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/to_file_url.ts",
+    "sha256": "b14c8fcaf7c25a93c8a40788232a5186ff8074d3df21a341aa7e9db4ec4cdd15",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "to_file_url.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/normalize_glob.ts",
+    "sha256": "d1ec8d1cdc0c5ddb64b75f8b18bfe545b429fcbd608513e091fb558b9a8a7bce",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
+    "dest-filename": "normalize_glob.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@std/path/1.1.6/deno.json",
+    "sha256": "99ae5c72fb2ebe982e4f5c6b36603b62a53be628d881de4e985bd834301ec0f2",
+    "dest": "vendor/jsr.io/@std/path/1.1.6",
     "dest-filename": "deno.json"
   },
   {
@@ -3263,6 +3507,285 @@
     "url": "https://jsr.io/@std/streams/1.1.1/deno.json",
     "sha256": "7cd9f03cf10f7173fd4cbc5ecb3f9450a79ce2023840e5701936f5bf0361bc71",
     "dest": "vendor/jsr.io/@std/streams/1.1.1",
+    "dest-filename": "deno.json"
+  },
+  {
+    "type": "inline",
+    "contents": "{\"scope\":\"zip-js\",\"name\":\"zip-js\",\"latest\":\"2.8.31\",\"versions\":{}}",
+    "dest": "vendor/jsr.io/@zip-js/zip-js",
+    "dest-filename": "meta.json"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30_meta.json",
+    "sha256": "757963bf9b4f8d9030777fb7ac6ee727972444f9fc4ad33ff4f45693f9f5acb6",
+    "dest": "vendor/jsr.io/@zip-js/zip-js",
+    "dest-filename": "2.8.30_meta.json"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/configuration.js",
+    "sha256": "f4cc5a016b174e2365eefbf909b69e1018848805829b4435f7b2cbeb47b9ab3c",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "configuration.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/zip-fs-wasm.js",
+    "sha256": "7f431d8f0ed13cf88ee6813febacc1e2e20f1f231c5085b204d16d62dddac74c",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib",
+    "dest-filename": "zip-fs-wasm.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/crc32-stream.js",
+    "sha256": "fad66e40ef3972154f4b11203169b0746dca093a8dffbc46ee228fad94ccf122",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams",
+    "dest-filename": "crc32-stream.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/codec-worker.js",
+    "sha256": "bd3577687d4f41e0a4946fc52b2c678c0347ee986137027142e221c486d89110",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "codec-worker.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/zip-writer.js",
+    "sha256": "d33ac8ec8d904a033e3750e0149898b48f55f84394bad24a529a68ed0f8742b7",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "zip-writer.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/io.js",
+    "sha256": "e171296604c4c59ef60ce5ff17ba9ece229375dc9d974899d0da1b602ded7c29",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "io.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/zlib-wasm/zlib-streams-loader.js",
+    "sha256": "9d95fe0aa49373d551dfd101898ec95c53e07e95e3ea990b26a8b1a5d48760f7",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/zlib-wasm",
+    "dest-filename": "zlib-streams-loader.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/zip-crypto-stream.js",
+    "sha256": "325623543cb6122193e0e60cbf8f7d00a9a605e13e03a755d640fec3e40327f6",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams",
+    "dest-filename": "zip-crypto-stream.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/codecs/crc32.js",
+    "sha256": "2d2182b375d2ca4ede797f2d5cd7a51b1d062438551557afefc3ae7ee6cc29eb",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/codecs",
+    "dest-filename": "crc32.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/zip-fs-core-wasm.js",
+    "sha256": "f61d830bf714fddb864af1b85cec9c1c637331e7b249a5d0b286a233e7c0d546",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib",
+    "dest-filename": "zip-fs-core-wasm.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/zip-entry.js",
+    "sha256": "e602256e1e4d7e8f3b54fe95980bb5c7c0af5d4eb0773a8cac6fc74a6473e7db",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "zip-entry.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/common-crypto.js",
+    "sha256": "424ad4193939c992bd9c3cadf186aa58917ebd0f1501672bbf2a71fa767f03c6",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams",
+    "dest-filename": "common-crypto.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/web-worker-inline-wasm.js",
+    "sha256": "67e635bfaab738d8a68e04805681d6f07106111c21a8fde7c8d60c8f80a6cb15",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "web-worker-inline-wasm.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/util/encode-text.js",
+    "sha256": "148916caf86339886f76f7585fb1fca5abafb6f684918962a3064fcda0a71f74",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/util",
+    "dest-filename": "encode-text.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/options.js",
+    "sha256": "86f84465d8a261b35ba526df0d1b3c5ea2ccc45a7ff7ea7e8812c1fdb3f5928b",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "options.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/codec-stream.js",
+    "sha256": "61087bf3e85af466520af46e9a89f4b7d6608f010b1a94450916bb720d0b113e",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams",
+    "dest-filename": "codec-stream.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/util/opfs-temp-stream.js",
+    "sha256": "b4e58113d90799a2a967fbd13e3d0b4d0f87287cc643077c384bd6c6a668f419",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/util",
+    "dest-filename": "opfs-temp-stream.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/zlib-streams-inline.js",
+    "sha256": "dd884643dcf4e59c690a3bc7b5927504d5f1a3c0234c5ead3209da7163b7faec",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "zlib-streams-inline.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/zlib-wasm/zlib-streams.js",
+    "sha256": "4f3d0b71a942fd9b125eb7974105b431c5179d048cf13eacbed3fb90b0aa94aa",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/zlib-wasm",
+    "dest-filename": "zlib-streams.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/zip-reader.js",
+    "sha256": "5897e0ec79d67c3c1c7863bb8f9943a2de249f95adcdb43cd2945330905f865f",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "zip-reader.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/aes-crypto-stream.js",
+    "sha256": "b6222532249b001ff8b63cf297ad013f781cb3a7c418d559b1139a8f78431c01",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams",
+    "dest-filename": "aes-crypto-stream.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/util/default-mime-type.js",
+    "sha256": "177ae00e1956d3d00cdefc40eb158cb591d3d24ede452c056d30f98d73d9cd73",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/util",
+    "dest-filename": "default-mime-type.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/zip-core-writer.js",
+    "sha256": "eef418c378254754c0a386ebf914e61e83e38020f17d84efde306713ddb2ff85",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib",
+    "dest-filename": "zip-core-writer.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/constants.js",
+    "sha256": "c9b9e39c6d817cb3e8bf64bb8f3450fd9fa90dd03143eb2ff8c4b0ae27ba0c92",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "constants.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/zip-core-base.js",
+    "sha256": "9dee682ef2c3ef8bd1d1e9fcf7357d440891455c72669406f5d62aafeb0bae2b",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib",
+    "dest-filename": "zip-core-base.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/index.d.ts",
+    "sha256": "2dd088adbca9d78ceece5463f35b967d39fe6c8fc6f7fa52c19c6d1aa3a5a04f",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30",
+    "dest-filename": "index.d.ts"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/util/decode-text.js",
+    "sha256": "3df1ddfd672d0e5d6f984672fe1b1de678d13a7ec388ba3682de42fd7707cff9",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/util",
+    "dest-filename": "decode-text.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/util/mime-type.js",
+    "sha256": "78bfdfdb9a3e6627e6a5ec3e498a607bbb046d2650d5461d46fe2fe164fb3eaf",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/util",
+    "dest-filename": "mime-type.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/util/decode-cp437.js",
+    "sha256": "0a76c77a56424c0a9d916b3da80e1ffb24eff4d70d297de725cc32e1bb25d7c5",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/util",
+    "dest-filename": "decode-cp437.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/zip-core-wasm.js",
+    "sha256": "df9a91515688d63a6586e873c54480c22f28c3aa329da558dc925aa7933d7a2a",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib",
+    "dest-filename": "zip-core-wasm.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/zip-fs.js",
+    "sha256": "97860b57c3c2700d85516725174ddc6acd1fccdd27292bccfc37c7d70acc6c89",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "zip-fs.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/zip-core-reader.js",
+    "sha256": "82c8cbdc1dfdc1b4468b64c78b3dd7fe6d3ab2e5cdc8e88cae72a933846516ae",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib",
+    "dest-filename": "zip-core-reader.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/codecs/sjcl.js",
+    "sha256": "899c6e2a4e26292b3e7c18c7891f3c8d7f2ffb3a857d07f1eba568c9e78f5dc3",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/codecs",
+    "dest-filename": "sjcl.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/index.js",
+    "sha256": "3c3c1475406363942c33b91dea8e21045e96ebba757890f4bcbe5d944097ce5c",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30",
+    "dest-filename": "index.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams/zip-entry-stream.js",
+    "sha256": "71c4344bd90f81955a31117d6fdb5edb554aab845377fca6d354f36189e288e1",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core/streams",
+    "dest-filename": "zip-entry-stream.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/zip-module-wasm.js",
+    "sha256": "fb119267f03765763e02765c996217e174a0ea456f21cbb3ec1cc3b73e431976",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib",
+    "dest-filename": "zip-module-wasm.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/lib/core/codec-pool.js",
+    "sha256": "e314f07306ad377feffffa5cce081dc0d8970d6c6f64a327dcc7ce7e6d5e9a86",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30/lib/core",
+    "dest-filename": "codec-pool.js"
+  },
+  {
+    "type": "file",
+    "url": "https://jsr.io/@zip-js/zip-js/2.8.30/deno.json",
+    "sha256": "99c5e246eb7beaea1ab1802f644396729ba21a0410a7ed82fe3092808a40bce0",
+    "dest": "vendor/jsr.io/@zip-js/zip-js/2.8.30",
     "dest-filename": "deno.json"
   }
 ]
