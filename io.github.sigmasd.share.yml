@@ -58,7 +58,7 @@ modules:
 
       # Share
       - type: archive
-        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/2.3.0.tar.gz
-        sha256: 06fbe63728155fe3e9f3fe866aa7b9e471c00ff92ca22fd99787a81b8b3970f9
+        url: https://github.com/sigmaSd/qr-share/archive/refs/tags/2.4.0.tar.gz
+        sha256: 701ef5decc2cfcf8a87b5ff14c00cfb365ece83517f651aaea3f19e46fa2c081
 
       - deno-sources.json
